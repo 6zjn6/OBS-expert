@@ -1,0 +1,337 @@
+﻿Character,Ground_Truth,LLM_Output,Pipeline
+苴,grass stuffed in shoes; padding grass in shoes,Tree,Baseline
+畕,Two fields connected together; two adjacent fields,Field,Baseline
+采,Pick the fruits or leaves from the tree by hand; pluck the fruits or leaves from the tree with hands,Tree,Baseline
+采,Pick the fruits or leaves from the tree by hand; pluck the fruits or leaves from the tree with hands,Tree,Baseline
+淄,"the name of a river in Shandong; also the same as '缁', meaning to dye black or to stain","""Child.""",Baseline
+酓,Originally it referred to the act of lowering one's head to drink wine; later it also came to mean the bitter taste of wine; it is also used as a surname (such as the ancient form of the character 'Xiong' in the Chu State's surname 'Xiong').,"The character resembles a container with a lid, likely representing a vessel or jar used for storing items.",Baseline
+森,"Many trees gathered together, referring to a forest; also used to describe a large quantity or a dark environment.",Three people,Baseline
+向,Originally referring to the echo produced by speaking indoors; later borrowed to indicate direction or orientation.,House,Baseline
+名,"When unable to see each other clearly at night, one would verbally state their own name; later, it came to refer to the name of a person or thing.","The oracle bone character resembles a container with a handle, representing a vessel or jar.",Baseline
+紳,"The wide belt worn by ancient officials to gird their waist; later, it refers to gentlemen of status and culture.","The oracle bone character resembles a bird with outstretched wings, representing a bird or related concepts.",Baseline
+面,"face, facial; also refers to the direction one is facing or oriented towards",A small boat.,Baseline
+老,"The elderly or aged things; the image of white hair, hunched back, and walking with a cane","""Tree, resembling branches with roots at the bottom, representing a tree.""",Baseline
+皇,"The crown of ancient emperors, extended to mean emperor or monarch; also describes something magnificent or brilliantly radiant",Hand,Baseline
+皇,"The crown of ancient emperors, extended to mean emperor or monarch; also describes something magnificent or brilliantly radiant","The oracle bone character resembles a person standing with arms raised, possibly indicating a gesture of greeting or celebration.",Baseline
+彔,ancient tool for drawing water from a well; later extended to mean records; blessings; the foot of a mountain; or the color green,"""Blood.""",Baseline
+朿,"Thorns on trees or grass, which later evolved into the character 'thorn'; also means to prick or stab someone with a sharp object","The character resembles a cross with a vertical stem and three horizontal branches at the top and bottom. It likely represents a symbolic or ritualistic object, possibly related to divination or religious practices.",Baseline
+并,"Two people connected together, indicating merging or togetherness;","The character resembles two vertical lines with a horizontal line connecting them at the bottom. This structure suggests a representation of a gate or entrance, likely indicating an architectural feature such as a doorway or gateway.",Baseline
+并,"Two people connected together, indicating merging or togetherness;","The oracle bone character resembles two vertical lines with a horizontal line connecting them at the bottom. This character likely represents the concept of ""two"" or ""double.""",Baseline
+夆,"Encountering face to face; later also used to denote enfeoffment, fragrance, or abundance",Tree,Baseline
+卒,Originally referring to the completion of garment sewing; later extended to mean ending or completion; also referring to soldiers (because ancient soldiers' uniforms had special markings).,House,Baseline
+輦,an ancient cart pulled by people; later also referring to the carriage used by the emperor or empress,"The character resembles two people standing back-to-back with their arms raised, possibly indicating a gathering or meeting.",Baseline
+狼,A carnivorous animal resembling a dog but more ferocious; often used as a metaphor for a fierce and greedy person.,Bow and arrow,Baseline
+合,"The lid and the vessel fit together tightly; extended meaning: to conform, to gather, to match",House,Baseline
+鬽,"The appearance of ghosts or spirits, possibly referring to a ghost with disheveled hair;","The oracle bone character resembles a person with a head and legs, possibly indicating a person or figure.",Baseline
+夬,split; break off,"The character resembles a person with arms raised, possibly indicating a gesture of surprise or alarm.",Baseline
+狽,"A legendary beast; often paired with 'wolf' in the term 'wolf and a legendary beast,' describing someone in a difficult or awkward situation.","The oracle bone character resembles a bird with outstretched wings, representing the concept of ""flying"" or ""soaring.""",Baseline
+寢,sleeping room or bedroom,House,Baseline
+尨,long-haired dog; fluffy appearance,"The oracle bone character resembles a fish with scales and fins, representing a fish or aquatic creature.",Baseline
+教,Teaching children with a handheld pointer; Instructing kids using a hand-held pointer,"""Tree, resembling a tree with branches and roots, representing tree or plant.""",Baseline
+教,Teaching children with a handheld pointer; Instructing kids using a hand-held pointer,Tree,Baseline
+卑,low status; humble identity; or submissive; obedient to orders,"The character resembles a container with a lid, representing a box or storage vessel.",Baseline
+壬,the ninth of the Ten Heavenly Stems; also symbolizes the north or the state of alternating yin and yang,"The character resembles a vertical line with a short horizontal line at the top, representing a pillar or post.",Baseline
+夾,Hold something under the arm; or have people on both sides help together,Tree,Baseline
+夾,Hold something under the arm; or have people on both sides help together,Tree,Baseline
+晉,"Advance, upgrade; the name of an ancient vassal state, located in the area of present-day Shanxi; also used as the name of a dynasty and the abbreviation for Shanxi Province",Fish,Baseline
+孕,pregnancy; carrying a child in the body,The character resembles a leaf with a symbol inside that looks like a female gender sign. It likely represents something related to women or femininity.,Baseline
+族,"A group formed by the same bloodline or common goals, such as a family; a nation",Fish,Baseline
+族,"A group formed by the same bloodline or common goals, such as a family; a nation","A person standing with hands raised, possibly in a gesture of surprise or greeting.",Baseline
+族,"A group formed by the same bloodline or common goals, such as a family; a nation","The character resembles a person with an upward arrow above their head, possibly indicating movement or direction.",Baseline
+革,Hide processed to remove hair; also refers to leather items such as armor or harness; later extended to mean change or reform.,"""Fox, resembling a fox with pointed ears and tail, representing fox or cunning.""",Baseline
+臬,the center of an archery target; later extended to mean a standard or criterion,"The oracle bone character resembles a star with four points radiating outward from a central point. It likely represents the concept of ""star"" or ""shining.""",Baseline
+隻,alone; a measure word for birds or one of a pair of items,"The oracle bone character resembles a person with outstretched arms, possibly indicating a gesture of reaching or stretching.",Baseline
+豖,Castrated boar; or the way a pig moves with its feet tied,"""Warrior, resembling a person with weapons, representing a warrior or soldier.""",Baseline
+醜,ugly; disgusting; shameful; embarrassing,"The oracle bone character resembles a container with a lid, possibly representing a vessel or jar.",Baseline
+印,"Press with the hand on a person or object; extended meanings include seal, printing, impression, etc.","The oracle bone character resembles a bird with outstretched wings, representing the concept of ""bird.""",Baseline
+畋,Leveling the fields; hunting,Farmland,Baseline
+敝,shabby clothes; also refers to the action of beating dust off cloth with a stick,"The oracle bone character resembles a person with outstretched arms, possibly indicating a gesture of reaching or stretching.",Baseline
+芻,Grass for mowing or fodder for livestock,"Arrow, resembling an arrow pointing downward, representing an arrow or direction.",Baseline
+芻,Grass for mowing or fodder for livestock,"The oracle bone character resembles a bird with outstretched wings, representing flight or soaring.",Baseline
+舂,Pound grain in a mortar with a pestle held in both hands,"The oracle bone character resembles a person with outstretched arms and legs, possibly indicating a gesture of surprise or astonishment.",Baseline
+翌,"tomorrow or the next (e.g., the next day, the next year); in ancient times, also used as a name for sacrifices or a personal name","The character resembles a bird with wings spread out, representing a bird or related concepts.",Baseline
+翌,"tomorrow or the next (e.g., the next day, the next year); in ancient times, also used as a name for sacrifices or a personal name","The character resembles a person standing with feet apart and arms hanging down, representing a person or individual.",Baseline
+雛,Newly hatched birds or chicks,"The character resembles two figures with outstretched arms, possibly depicting a scene of interaction or communication between them. It might represent a concept related to social interaction, agreement, or negotiation.",Baseline
+姀,The characters used in ancient women's names; later describing a woman's graceful and elegant demeanor.,"The oracle bone character resembles a person with outstretched arms and legs, possibly representing a dancing figure.",Baseline
+畜,"Tie the animals caught from hunting with ropes and raise them in the fields; later, it refers to domesticated or raised animals.","The character resembles a circular object with a cross inside, possibly representing a compass or a similar navigational tool.",Baseline
+雞,Poultry chicken; an animal that crows at dawn,Bird,Baseline
+雞,Poultry chicken; an animal that crows at dawn,"""Man, resembling a person standing sideways with arms hanging down, representing human or man.""",Baseline
+聾,The ears cannot hear sounds;,"The oracle bone character resembles a bird with outstretched wings, representing the concept of ""flying"" or ""soaring.""",Baseline
+葬,Wrap the deceased with wooden planks or straw mats and bury them in the ground;,"The oracle bone character resembles a structure with two vertical lines connected by a horizontal line at the top, forming a shape that could represent a building or a house. This character likely signifies a place or structure, possibly related to shelter or habitation.",Baseline
+葬,Wrap the deceased with wooden planks or straw mats and bury them in the ground;,The character resembles a vertical rectangular frame with a diagonal line inside. It likely represents a door or entrance.,Baseline
+葬,Wrap the deceased with wooden planks or straw mats and bury them in the ground;,"The character resembles a door with two vertical lines inside, representing a door frame and a door bar. It likely means ""door.""",Baseline
+葬,Wrap the deceased with wooden planks or straw mats and bury them in the ground;,"The oracle bone character resembles a person with outstretched arms, possibly indicating a gesture of reaching or stretching.",Baseline
+雩,Ancient sacrificial rituals using music and dance to pray for rain;,"The oracle bone character resembles a structure with a roof-like top and a vertical pillar below, possibly representing a building or a house.",Baseline
+甘,Sweet; delightful; willing,"""Pot.""",Baseline
+遘,meet or encounter on the road; meet or see each other,"""Man, resembling a person standing sideways, representing human or man.""",Baseline
+遘,meet or encounter on the road; meet or see each other,"The oracle bone character resembles a deer antler with two branches extending upwards and outwards, and another branch extending downwards. It likely represents the concept of ""antlers,"" specifically those of a deer.",Baseline
+遘,meet or encounter on the road; meet or see each other,"""Person, resembling a person standing sideways, representing human or person.""",Baseline
+腹,the belly; also extended to mean the core or interior,"The character resembles a bird with outstretched wings, representing a bird or related concepts.",Baseline
+戴,"Wearing something on the head, such as a hat; also means to support or hold in esteem.","""House, resembling a structure with a roof supported by pillars, representing a house or building.""",Baseline
+麑,fawn or young deer; also refers to a fierce beast similar to a lion,"The oracle bone character resembles a bird with outstretched wings, representing the concept of ""bird.""",Baseline
+歺,"The appearance of a remnant bone, or a tool resembling a shovel; later extended to mean fierce or to harm.",Horse,Baseline
+宜,"appropriate, proper; in ancient times, it referred to the meat placed during sacrificial ceremonies, extended to mean dishes or sacrificial rituals","""Door.""",Baseline
+蠱,"Artificially cultivated poisonous insects in ancient legends, used to harm people; also refers to disasters or being bewitched","A vessel with handles, representing a container or vessel.",Baseline
+蠱,"Artificially cultivated poisonous insects in ancient legends, used to harm people; also refers to disasters or being bewitched",Fire,Baseline
+晵,There is currently no clear general meaning for this rare character; it may be a combination of sunlight (日) and opening a door (戶).,"The oracle bone character resembles a person with a head and body, representing human or person.",Baseline
+晵,There is currently no clear general meaning for this rare character; it may be a combination of sunlight (日) and opening a door (戶).,"The oracle bone character resembles a person with outstretched arms, representing the concept of ""to hold"" or ""to grasp.""",Baseline
+檀,"a hard wood (sandalwood); also refers to a light red color, or used as a metaphor for a handsome man (e.g., ""sandalwood gentleman""); in Buddhism, it also refers to a benefactor (dānapati)",Tree,Baseline
+劦,Many people work together with effort; cooperating like plowing a field together.,Three people.,Baseline
+祝,"Those who pray to deities or preside over sacrificial rites, such as temple priests; also used to express wishes or blessings","The oracle bone character resembles a person with a head and body, representing human or person.",Baseline
+祝,"Those who pray to deities or preside over sacrificial rites, such as temple priests; also used to express wishes or blessings","The oracle bone character resembles a person with arms raised, possibly indicating a gesture of surprise or alarm.",Baseline
+娩,childbirth; delivery,Tree,Baseline
+逢,meet or come across on the road; encounter or run into,Tree,Baseline
+狐,"Fox, a canine animal; its fur is valuable; often used to symbolize cunning or nostalgia for one's homeland.","The oracle bone character resembles a bird with outstretched wings, representing the concept of flying or soaring.",Baseline
+相,"observe, look at each other; later extended to mean mutual, each other, as in 'trust', 'same'",Tree branch,Baseline
+戉,An ancient axe-like weapon; later also refers to the state of Yue or used as a loan character for 'year',"The character resembles a person standing sideways with arms hanging down, representing human or person.",Baseline
+黹,"Patterns embroidered on clothing with needle and thread; in ancient times, specifically referred to symmetrical designs with two opposing elements; later generalized to decorative embroidery.","""Zi,"" resembling a zigzag pattern, representing the character's unique structure and form.",Baseline
+貝,"Shell, once used as currency in ancient times; now mostly refers to treasures or precious things.","The oracle bone character resembles two eyes with curved lines, representing vision or sight.",Baseline
+娶,The man takes the woman home to marry her.,"The oracle bone character resembles a bird with outstretched wings, representing the concept of ""flying"" or ""soaring.""",Baseline
+瞽,"The blind who cannot see with their eyes; in ancient times, it also referred to blind musicians responsible for music.","Person, resembling a person standing sideways, representing human or person.",Baseline
+帛,"white silk fabric; in ancient times, it referred to silk or cloth",A person standing with hands hanging down.,Baseline
+疾,ill or very fast,"The character resembles a bird with outstretched wings, representing a bird or related concepts.",Baseline
+疾,ill or very fast,Fish,Baseline
+疾,ill or very fast,Dolphin,Baseline
+方,"square or direction; can also mean place, method; currently happening","""Walk.""",Baseline
+阜,A large earthen mound without stones; a highland shaped like a staircase; extended to mean abundant in natural resources,Tree,Baseline
+竝,Two standing people side by side,Two people walking together.,Baseline
+竝,Two standing people side by side,Two people,Baseline
+得,Pick up money on the road; extend to obtain; get; can; satisfy,"The character resembles a person with outstretched arms, representing the concept of ""to hold"" or ""to grasp.""",Baseline
+宅,place of residence; dwelling,House,Baseline
+聑,Listen quietly with pricked-up ears; later extended to mean safe and secure,Fish,Baseline
+甫,Originally referring to vegetables or seedlings growing in the fields; later often used as an honorific for men; also meaning the beginning or just now.,"A structure with a roof and a door, representing a house or building.",Baseline
+申,The pictogram of lightning; later borrowed to represent the eighth of the Earthly Branches; also signifies stretching or extending.,"The character resembles a zigzag pattern, possibly representing a natural phenomenon or abstract concept. It might symbolize something dynamic or irregular, similar to lightning or a winding path.",Baseline
+寮,"In ancient times, it referred to a house where many people lived; nowadays, in Taiwan and Japanese, this character still refers to a dormitory or house; it also refers to officials working together (colleagues).",House,Baseline
+戌,"The eleventh Earthly Branch, corresponding to the Dog in the Chinese zodiac; in ancient times, it also referred to an axe-shaped weapon.","""Warrior, resembling a person with weapons, representing soldier or warrior.""",Baseline
+戚,An ancient axe with serrated blades; later extended to mean relatives or sorrow.,Middle,Baseline
+姪,"children of siblings; such as nephews, nieces","The oracle bone character resembles a person sitting with legs apart, representing the concept of ""to sit.""",Baseline
+鬱,depressed and unhappy; also refers to the lush appearance of vegetation,The oracle bone character resembles a star with two points at the top and a curved line at the bottom. It likely represents a celestial body or a star.,Baseline
+鬱,depressed and unhappy; also refers to the lush appearance of vegetation,Snow,Baseline
+虣,To fight a tiger with weapons; extended to mean tyrannical or ferocious behavior,"The oracle bone character resembles a vertical line with a small horizontal line at the top, representing the number ""one.""",Baseline
+杲,"The sun rises above the treetops, depicting brightness or the moment of dawn;","The character resembles a person with a head and two legs, representing a person or individual.",Baseline
+弦,"The string on a bow used to shoot arrows; later also referring to the strings on musical instruments that produce sound, such as the strings of a qin.","The oracle bone character resembles a bird with outstretched wings, representing a bird or related concepts.",Baseline
+步,walk slowly; ancient unit of length (distance of one stride); surname,"The oracle bone character resembles two hands holding something, possibly food or offerings, with a gesture that suggests offering or presenting.",Baseline
+畐,ancient wine jar; later also symbolizing blessings and abundance,House,Baseline
+鼠,"Small rodents that steal food and gnaw on items, such as house mice; field mice","""Shake, resembling a person with hands raised, representing shaking or trembling.""",Baseline
+霸,Originally referring to the white glow of the newly appeared moon; later extended to mean dominance or supremacy.,"The oracle bone character resembles a fish with scales and fins, representing a fish or aquatic creature.",Baseline
+隹,Birds with short tails; also used as a modal particle or a variant character.,"""Man, resembling a person standing sideways with arms hanging down, representing man or male.""",Baseline
+王,"the supreme ruler in ancient times, symbolizing authority; also refers to jade or a surname",Tree,Baseline
+王,"the supreme ruler in ancient times, symbolizing authority; also refers to jade or a surname",Mountain,Baseline
+王,"the supreme ruler in ancient times, symbolizing authority; also refers to jade or a surname",King,Baseline
+辛,The pungent taste that brings tears to the eyes; the feeling of toiling and suffering; also used to denote the eighth of the ten Heavenly Stems.,Tree,Baseline
+疐,"It refers to the stem of a plant; an obstacle or pause; a sneeze; or the fundamental meaning, such as the stem of a fruit; being tripped while walking; a sudden sneeze; it can also represent the foundation of things.","""Tree, resembling a tree with branches and roots, representing tree or plant.""",Baseline
+賈,merchant or trader's price; business transaction price,Mountain,Baseline
+滳,It might be the name of a river; or related to water flow,"The oracle bone character resembles a person with outstretched arms and legs, possibly representing a person in motion or dancing.",Baseline
+鬼,The soul or supernatural being after death; also refers to a sinister and cunning person.,A container with a lid.,Baseline
+焚,"Using fire to burn trees or weeds; later, it generally refers to all burning behaviors.",The oracle bone character resembles a face with two eyes and a mouth. It likely represents a facial expression or emotion.,Baseline
+焚,"Using fire to burn trees or weeds; later, it generally refers to all burning behaviors.","The oracle bone character resembles a person with outstretched arms and legs, possibly indicating movement or dance.",Baseline
+莫,When the sun sets; in the evening,"""Two vertical lines with a square below, representing a structure or building.""",Baseline
+莫,When the sun sets; in the evening,"The character resembles a person with outstretched arms and legs, possibly indicating movement or dance.",Baseline
+莫,When the sun sets; in the evening,Day,Baseline
+莫,When the sun sets; in the evening,"The character resembles a rectangular box with two lines inside, surrounded by four small crosses at each corner. This character likely represents a container or vessel used for holding objects.",Baseline
+莫,When the sun sets; in the evening,"The oracle bone character resembles two crossed lines above a rectangular shape with a horizontal line across it. This character likely represents a door or entrance, with the rectangular shape symbolizing the doorway and the horizontal line possibly indicating a lintel or threshold.",Baseline
+兵,weapons or soldiers carrying weapons,"The character resembles a bird with outstretched wings, representing a bird or related concepts.",Baseline
+嬂,Characters used as female names in ancient times,"The oracle bone character resembles a bird with outstretched wings, representing the concept of ""flying.""",Baseline
+秋,the third season of the year; the weather turns cooler; the time when crops mature and are harvested,Insect,Baseline
+秋,the third season of the year; the weather turns cooler; the time when crops mature and are harvested,"The character resembles a bird with outstretched wings, representing flight or soaring.",Baseline
+唬,The roar of a tiger; also used to describe someone's bluster or empty threats.,"The oracle bone character resembles a person with a head and body, possibly representing a person or individual.",Baseline
+汜,A branch that diverges from the main channel and then flows back; a distributary that rejoins the main stream,"The character resembles a bird with outstretched wings, representing a bird or related concepts.",Baseline
+亢,"It may refer to a person's neck, or indicate an arrogant, haughty attitude; it can also mean to lift or raise, as in the idiom 'neither haughty nor humble,' which describes a proper demeanor.","The character resembles a person standing upright with arms raised, representing the concept of ""to stand.""",Baseline
+洒,Flush or disperse liquid; such as sprinkling water; sweeping and sprinkling,"The oracle bone character resembles a droplet with a curved upper part and a circular lower part, representing water or rain.",Baseline
+囡,little girl; an affectionate term for a girl in dialect,"The oracle bone character resembles a leaf with a stem, representing the concept of ""leaf.""",Baseline
+發,"The action of shooting an arrow or launching; later extended to mean departure, occurrence, etc.","The oracle bone character resembles a fish with fins and tail, representing a fish or aquatic creature.",Baseline
+釋,release; lift; explain; or related to Buddhism,"The oracle bone character resembles a bird with outstretched wings, representing the concept of flying or soaring.",Baseline
+辥,The exact meaning cannot be determined for now; it may be a character used in ancient personal names or place names.,"The oracle bone character resembles a bird with outstretched wings, representing the concept of flying or soaring.",Baseline
+賓,The host welcomes the guest into the house; it also refers to the guest or presenting gifts.,House,Baseline
+賓,The host welcomes the guest into the house; it also refers to the guest or presenting gifts.,House,Baseline
+馬,"a quadruped animal, commonly used for riding or pulling carts; an important means of transportation and military equipment in ancient times",Tree,Baseline
+羞,Originally it referred to offering food such as lamb by hand; later it was also used to express embarrassment or shyness.,Tree,Baseline
+凡,summary; ordinary; mundane,Door,Baseline
+濘,Muddy; refers to roads or ground becoming slippery and difficult to traverse due to rain.,"The character resembles a vertical line with a small horizontal stroke at the top, representing the number one. It signifies the smallest positive integer or the beginning.",Baseline
+媟,disrespectful behavior; irreverent conduct,"The oracle bone character resembles a person with outstretched arms and legs, possibly indicating movement or dance.",Baseline
+炎,The appearance of a raging flame or fire; now often used to describe extremely hot weather or inflammation in the body.,Fire,Baseline
+未,"It can represent the eighth of the Earthly Branches; it can also denote negation, equivalent to 'not' or 'not yet.' For example, '未来' means time that has not yet arrived; '未知' refers to things that are not yet known.",Tree,Baseline
+淵,deep pool; very deep place,"The oracle bone character resembles a container with three vertical lines inside, possibly representing contents or items stored within. It likely signifies storage or containment.",Baseline
+釆,It means to distinguish or differentiate; some also believe it to be the earliest form of the character 'sow' (播).,"""Four, resembling four vertical lines intersecting with a horizontal line, representing the number four.""",Baseline
+奠,"Originally it referred to placing wine on the table as an offering; later it extended to mean to establish or lay the foundation (e.g., to lay a cornerstone, to establish); it also refers to commemorating the deceased.",Vessel,Baseline
+折,"To cut off grass and trees with an axe; extended meanings include breaking, bending, losing, etc.","The character resembles two downward arrows with a curved line extending to the right. It likely represents the concept of ""falling"" or ""dropping,"" possibly indicating something descending or moving downwards.",Baseline
+敏,Quick movements; agile reactions,"A person holding a tool, possibly a knife or similar implement, engaged in cutting or carving.",Baseline
+臭,"Dogs smell with their noses; later, it generally refers to various smells.","The character resembles a person with outstretched arms, representing the concept of ""to hold"" or ""to grasp.""",Baseline
+妹,"a female peer younger than oneself, such as a younger sister; can also refer to a young girl","A person holding a tool, possibly a hoe, working in the field.",Baseline
+三,All fingers; three dots of rain indicate rain,Three parallel lines,Baseline
+臺,A high and flat four-sided building; later also referring to a raised platform; the name of an ancient government office; or a term of respect for others,"The character resembles a person with outstretched arms and legs, representing a person or human figure.",Baseline
+畫,Drawing graphics; delineating boundaries; or carving decorations,"The oracle bone character resembles a person with outstretched arms and legs, possibly indicating movement or dance.",Baseline
+霾,"The air is filled with dust or smoke, resulting in a weather phenomenon with dim daylight.",Tree,Baseline
+獲,Items obtained through hunting;,"A person bending over, possibly picking something up.",Baseline
+獲,Items obtained through hunting;,Bird,Baseline
+翼,bird's wing; something resembling a wing (such as eaves); also means protection or assistance,"The oracle bone character resembles a hand with fingers pointing downward, representing the concept of ""hand.""",Baseline
+涂,Originally referring to a river in Yunnan (the Niulan River); later also used to denote the action of smearing or a place name.,"The oracle bone character resembles a fish with a curved body and fins, representing a fish.",Baseline
+缶,An ancient pottery jar used for holding wine or water; the people of Qin also used it as a musical instrument for beating and singing.,"The character resembles a container with a lid, representing storage or containment.",Baseline
+磬,Ancient stone percussion instrument hung and struck with a mallet; lithophone.,"The oracle bone character resembles a person with outstretched arms and legs, possibly indicating movement or dance.",Baseline
+磬,Ancient stone percussion instrument hung and struck with a mallet; lithophone.,"The oracle bone character resembles a person standing sideways with arms hanging down, representing human or person.",Baseline
+刀,"A bladed tool or weapon, shaped like a metal piece with an edge, used for cutting or combat; also refers to an ancient type of coin; can also be used as a surname or place name.",The character resembles two intersecting lines forming a shape that could represent a forked path or a split direction. It might symbolize divergence or branching out.,Baseline
+置,Place something somewhere; establish or set up; purchase items; let go or give up; ancient term for a relay station,"The oracle bone character resembles a person with outstretched arms and legs, possibly depicting a person in motion or dancing.",Baseline
+炋,It may be a negative connotation related to fire; the exact meaning requires more information to confirm.,Tree,Baseline
+斝,An ancient bronze wine vessel with three legs and a handle; later also refers to wine cups or tea cups in general.,"The oracle bone character resembles a structure with two vertical lines at the top and bottom, connected by a horizontal line in the middle, forming a rectangular frame. This character likely represents a building or a house, symbolizing shelter or habitation.",Baseline
+正,"Advancing towards the goal; later extended to mean correct, proper, and not deviating.","""House, resembling a rectangular structure with a door, representing house or shelter.""",Baseline
+正,"Advancing towards the goal; later extended to mean correct, proper, and not deviating.","The character resembles a square box with a curved line inside, possibly representing a container or vessel.",Baseline
+伊,The name of the ancient virtuous minister Yi Yin; later also refers to the third-person pronoun 'he' or 'she',"The oracle bone character resembles a person with outstretched arms and legs, representing a person or individual.",Baseline
+亟,ultimate; rapid; highest point or criterion,"The character resembles a vertical line with a small horizontal stroke at the top, representing the number ""one."" It symbolizes the smallest positive integer or the beginning.",Baseline
+艱,difficult; not easy things,"""Man, resembling a person standing sideways with arms hanging down, representing male or man.""",Baseline
+艱,difficult; not easy things,"The character resembles a person with outstretched arms, possibly holding something, and another figure beside them. This suggests a scene where two people are interacting or working together.",Baseline
+艱,difficult; not easy things,Fire,Baseline
+豭,boar; later also referring to pigs in general,Hand,Baseline
+夷,"Refers to ancient Eastern peoples; also means flat or leveling; in oracle bone script, it depicts the action of shooting prey with an arrow tied to a rope.","""Vehicle, resembling a cart with wheels, representing vehicle or transportation.""",Baseline
+及,Catch up; seize; reach a certain place or time,"The oracle bone character resembles a bird with outstretched wings, representing the concept of ""flying"" or ""soaring.""",Baseline
+五,"The number five, representing a quantity of five; commonly used for counting or ordering.",Hourglass,Baseline
+邍,high and flat open land; people can go up to move around,"The oracle bone character resembles a person standing sideways with arms hanging down, representing human or person.",Baseline
+娠,pregnancy,"The oracle bone character resembles a bird with outstretched wings, representing the concept of ""flying.""",Baseline
+椃,It may be a specific object or concept related to trees or tigers; further information is needed to confirm the exact meaning.,"""Man, resembling a person standing sideways with arms hanging down, representing human or man.""",Baseline
+興,"People join forces to lift or start something; later extended to mean beginning, flourishing, or being in high spirits.","The oracle bone character resembles a structure with two vertical lines and a horizontal line connecting them at the top, forming a rectangular shape. This character likely represents a building or a house.",Baseline
+興,"People join forces to lift or start something; later extended to mean beginning, flourishing, or being in high spirits.","""Hand, resembling a hand with fingers spread out, representing hand or gesture.""",Baseline
+戎,Weapons or military-related matters; also refers to ancient terms for foreign ethnic groups,Tree,Baseline
+尋,"Stretch out arms to measure length; in ancient times, eight chi equaled one xun; also refers to sacrificial rites or repeated investigation","The oracle bone character resembles a person with outstretched arms, possibly representing the concept of ""to hold"" or ""to grasp.""",Baseline
+旦,The morning when the sun has just risen; the time when the sky is just getting light,"The oracle bone character resembles a square with a small circle inside it. This character likely represents a container or vessel, possibly used for holding liquids or other items.",Baseline
+旦,The morning when the sun has just risen; the time when the sky is just getting light,"The character resembles a square with a horizontal line across the middle, representing a door or entrance.",Baseline
+眢,The eyes cannot see things;,"The character resembles a bird with outstretched wings, representing flight or soaring.",Baseline
+抎,lose or drop something,"The character resembles a coiled snake with a tail pointing upwards, representing a snake.",Baseline
+父,father or male elder; also used as a respectful term for an older man,"The oracle bone character resembles a knife or blade with a handle and a sharp edge, representing cutting or slicing.",Baseline
+櫓,large shield used in ancient warfare; watchtower on a city wall; long oar for rowing,Moon,Baseline
+召,greeting; invitation; entertaining others,Fire,Baseline
+倗,"assistant or friend; in ancient times, it also referred to companions","The oracle bone character resembles a person with an upward movement or gesture above them. It likely represents the concept of ""ascending"" or ""going up.""",Baseline
+東,the direction where the sun rises; master or employer; the direction symbolizing masculinity,"The oracle bone character resembles a fish with a round body and two fins at the top, representing a fish.",Baseline
+卯,"the fourth of the twelve Earthly Branches; in ancient times, it also referred to the act of slaughtering livestock or cutting open",Two people facing each other.,Baseline
+麝,An animal resembling a small elk; secretes musk from its navel,Deer,Baseline
+水,"Colorless and odorless transparent liquid in nature; also refers to bodies of water such as rivers, lakes, and seas.",Flowing water.,Baseline
+豩,"Two pigs together may be pigs chasing or fighting each other; it could also refer to a group of pigs running around wildly; in ancient times, it was also used to mean stubborn or aggressive.","The oracle bone character resembles two people walking side by side, representing companionship or partnership.",Baseline
+鳥,long-tailed birds; generally refers to birds,Bird,Baseline
+偪,"Originally it referred to a state of being full; later it also came to mean coercion or invasion; in ancient times, it was additionally used as a name for sacrificial rites.",Vessel,Baseline
+虎,"Tiger, a fierce large feline; also describes a brave or majestic appearance","The oracle bone character resembles a person with outstretched arms and legs, possibly depicting a running or leaping motion. It likely represents the concept of ""running"" or ""leap.""",Baseline
+丮,The gesture of holding or cupping something with both hands; also signifies the action of kneeling in prayer.,Snake,Baseline
+品,Multiple things gathered together; or referring to the level and type of things,"The oracle bone character resembles three connected shapes that could represent a structure or formation. It might symbolize something related to architecture or construction, possibly depicting a building or a wall with three sections.",Baseline
+人,human or individual person,"Number seven, resembling two intersecting lines with a small circle at the intersection, representing the number seven.",Baseline
+楚,"Clumps of trees, specifically a plant called ""Jing""; also refers to the ancient state of Chu, named for its abundance of thorns; later extended to meanings such as clear and orderly (e.g., ""清楚""), or suffering (e.g., ""苦楚"").","""Tree, resembling a tree with branches, representing tree or forest.""",Baseline
+楚,"Clumps of trees, specifically a plant called ""Jing""; also refers to the ancient state of Chu, named for its abundance of thorns; later extended to meanings such as clear and orderly (e.g., ""清楚""), or suffering (e.g., ""苦楚"").","The character resembles a structure with a central vertical line and four outward extending lines at the top and bottom, possibly representing a building or a house.",Baseline
+我,refer to oneself; first-person pronoun,Door,Baseline
+夌,Climbing mountains or crossing obstacles; later extended to mean surpassing or transcending.,"""Tree, resembling a tree with branches and roots, representing plant or tree.""",Baseline
+臣,"In ancient times, it referred to slaves or officials serving the monarch; originally depicting wide-eyed appearance, later borrowed to denote those who are ruled or subservient.","The oracle bone character resembles a crescent moon with a dot in the center, representing the moon phase.",Baseline
+妦,describe a woman's beautiful appearance and graceful demeanor; depict a woman's lovely looks and elegant posture,Tree,Baseline
+余,Originally referring to a simple thatched hut; later borrowed to denote the personal pronoun 'I'; it can also mean 'superfluous' or 'to give.',"The oracle bone character resembles a person with arms raised upwards, possibly indicating a gesture of reaching or stretching.",Baseline
+遼,far away; vast; also used in ancient place names and river names,"""Warrior, resembling a person with a weapon, representing a warrior or soldier.""",Baseline
+廼,"In ancient usage, it means 'then' or 'so'; it is rarely used alone nowadays.",Drop,Baseline
+聲,sound; noise,"The oracle bone character resembles a person with a head and body, possibly representing a person or individual.",Baseline
+聲,sound; noise,"The oracle bone character resembles a person with arms raised, possibly indicating a gesture of surprise or alarm.",Baseline
+紤,It may be a character related to ancient silk processing or cutting; its specific meaning is not clearly documented.,"The character resembles a bird with outstretched wings, representing a bird or related concepts.",Baseline
+編,Tie bamboo slips together with a rope; arrange them in order; write the text; weave items; fabricate a story,Tree,Baseline
+尸,The living who receive sacrifices for the deceased; later also referring to the memorial tablet or the act of holding a position without doing any work.,Tree,Baseline
+秦,"The ancient name of the Qin State, derived from the abundance of grain in the region; or refers to the action of threshing grain with a pestle.",Tree,Baseline
+孫,son's son; descendants,"""Early morning.""",Baseline
+网,"A tool made of rope for catching fish, shrimp, birds, or animals; now also refers to networked systems like the internet.","The oracle bone character resembles a structure with intersecting lines forming a grid-like pattern. It likely represents a net or a fence, symbolizing enclosure or restriction.",Baseline
+术,skill; method; specialized knowledge,"""Rice,"" resembling grains of rice, representing rice or grain.",Baseline
+朕,"The self-referential term used by ancient emperors (such as ""L'État, c'est moi""); originally referred to the act of repairing boat seams; later extended to mean small omens or signs.",Warrior,Baseline
+龖,the appearance of two dragons flying together,"The oracle bone character resembles two snakes coiled together, representing the concept of ""snake.""",Baseline
+虤,The appearance of two tigers angrily fighting; the sight of two enraged tigers battling,"The oracle bone character resembles a person with outstretched arms and legs, possibly indicating movement or dance.",Baseline
+逆,"Opposite or contrary in direction, such as against the wind or going the wrong way; it can also mean to meet or confront, such as reverse thinking which is considering a problem from a different angle.",Tree,Baseline
+逆,"Opposite or contrary in direction, such as against the wind or going the wrong way; it can also mean to meet or confront, such as reverse thinking which is considering a problem from a different angle.",Tree,Baseline
+逆,"Opposite or contrary in direction, such as against the wind or going the wrong way; it can also mean to meet or confront, such as reverse thinking which is considering a problem from a different angle.",Tree,Baseline
+室,Living room or household,House,Baseline
+夸,excessive ostentation; extravagance; or used for praise; admiration,"The character resembles a person with outstretched arms and legs, representing a person or human being.",Baseline
+啟,"open; teach; enlighten, such as open the door; enlightenment; start","The oracle bone character resembles a bird with outstretched wings, representing the concept of ""bird.""",Baseline
+湡,"the name of a river, also called Shahe; located in southern Hebei",Fire,Baseline
+羊,A domestic animal with a pair of curved horns on its head; a creature symbolizing auspiciousness and beauty,Tree,Baseline
+稠,"describing a large, dense quantity; such as dense seedlings, a large population, or intricate patterns",A basket with a handle.,Baseline
+枼,Leaves on the tree; later also used to denote generations or periods,Tree,Baseline
+血,"red liquid flowing in the bodies of humans or animals; in ancient times, it also referred to the blood of sacrificial animals",A person with hands raised.,Baseline
+別,"Separate the flesh from the bone with a knife; later extended to mean separate, distinguish, or leave.","The oracle bone character resembles a person with outstretched arms, possibly indicating a gesture of reaching or stretching.",Baseline
+濩,Rainwater flows down the eaves;,"""Flowing water.""",Baseline
+扔,Throw by hand or discard;,"The character resembles a person with outstretched arms and legs, possibly indicating movement or dance.",Baseline
+丁,The fourth of the Heavenly Stems; ancient term for a city or town; also used as a personal name or time marker,Square,Baseline
+飤,the act of a person eating; food,"The oracle bone character resembles a structure with a roof-like shape above a rectangular base, possibly representing a building or a house.",Baseline
+黽,"Frog species, specifically the pot-bellied frog","The oracle bone character resembles a crab with claws at both ends and a segmented body, representing a crab.",Baseline
+潦,describe heavy rain; describe pouring rain,Fire,Baseline
+內,From the outside to the inside; refers to the internal or inner space or scope,"A structure with two vertical lines and a horizontal line connecting them at the top, resembling a gate or entrance.",Baseline
+奚,"In ancient times, it referred to a slave whose braid was seized; later, it was also used as an interrogative word meaning 'why' or 'where'; occasionally, it was borrowed to mean 'chicken'.",Tree,Baseline
+亡,escape; disappear; none; die,Mountain,Baseline
+亡,escape; disappear; none; die,"The character resembles a person with arms raised, possibly indicating a gesture of surprise or alarm.",Baseline
+舞,Swinging the body while holding props; performing activities by stepping to the rhythm with the feet; now broadly refers to various dances.,Tree,Baseline
+歲,a year or age; related to the orbital period of Jupiter,"The oracle bone character resembles a structure with a horizontal line at the top and two vertical lines connected by a diagonal line, forming a shape that could represent a gate or entrance. This character likely signifies a place where people gather or pass through, such as a city gate or a signif...",Baseline
+易,"Originally it referred to bestowing property; later it extended to mean exchange, change, or ease. For example, ""交易"" means exchanging goods; ""易如反掌"" describes something as very simple.",Wind,Baseline
+服,obey; do things; clothes or undertake duties,"The oracle bone character resembles a bird with outstretched wings, representing the concept of ""flying"" or ""soaring.""",Baseline
+念,"thinking of or keeping something in mind; such as longing, thoughts",Hat,Baseline
+冎,The appearance of a bone being broken or separated.,"The character resembles two vertical lines with a diagonal line connecting them at the top, forming a shape that could represent a structure or framework. It might symbolize something related to building or support.",Baseline
+弄,to fiddle with something with hands; also refers to playing a musical instrument or a passage of music,Tree,Baseline
+闔,door leaf or closing door,"The oracle bone character resembles a person with outstretched arms, possibly indicating a gesture of reaching or stretching.",Baseline
+濤,big waves; or sounds like waves,"The oracle bone character resembles a container with a lid, possibly representing a vessel or jar used for storing items.",Baseline
+弜,Two bows side by side indicate toughness or repetition;,Tree,Baseline
+舟,Ancient boats hollowed out from wood;,"The character resembles a curved structure with two vertical lines at the top and bottom, possibly representing a bridge or archway.",Baseline
+嫀,Names of female slaves or women sent from the Qin region during the Shang Dynasty,"The oracle bone character resembles a person with outstretched arms and legs, possibly depicting a person in motion or dancing.",Baseline
+中,"the middle position or state; can also mean to conform or suit, such as 'to like'",Middle,Baseline
+市,A place for buying and selling things; a walled market,"""Lightning.""",Baseline
+牟,The sound of a cow's call; later also used to mean seeking profit.,Tree,Baseline
+戶,single-leaf door; also refers to a family or household,Door,Baseline
+家,Places where people live; also refers to families or professionals,House,Baseline
+家,Places where people live; also refers to families or professionals,House,Baseline
+嚨,Throat; the part of the voice where sound is produced,"The oracle bone character resembles a person with a head and body, representing human or person.",Baseline
+豹,A tiger-like animal with round spots; a fierce beast of the cat family,"The oracle bone character resembles a person with outstretched arms and legs, possibly depicting a dancing figure. It likely represents the concept of ""dance"" or ""dancing.""",Baseline
+龏,Holding the dragon respectfully with both hands signifies an attitude of reverence and humility.,"The oracle bone character resembles a bird with outstretched wings, representing the concept of ""flying.""",Baseline
+疑,feel uncertain; can't make up one's mind,Man,Baseline
+蛷,An insect; possibly referring to a small bug that makes noise or causes discomfort,Tree,Baseline
+桑,"Mulberry tree, the leaves are food for silkworms; in ancient times, it was also used as a place name or the name of a state.",Tree,Baseline
+黍,A sticky grain used for brewing wine or making pastries; an important food crop in ancient times,Tree,Baseline
+黍,A sticky grain used for brewing wine or making pastries; an important food crop in ancient times,Tree,Baseline
+此,"Referring to the immediate place or thing, as opposed to 'there'; indicating the present location or object, in contrast to 'there'.","The oracle bone character resembles a person with outstretched arms and legs, possibly indicating movement or dance.",Baseline
+解,"Cut open the ox horn with a knife; extended meanings include separate, dismantle, understand, relax",Tree,Baseline
+嬉,Originally referring to a woman's beautiful appearance; later often used to mean playing or having fun.,"The character resembles a structure with three vertical lines at the top and a horizontal line at the bottom, possibly representing a building or a house.",Baseline
+濼,"The name of an ancient river near Jinan, Shandong; later also used to mean entertainment.",Tree,Baseline
+遝,messy; numerous,"The character resembles a bird with outstretched wings, representing flight or soaring.",Baseline
+潭,deep water or abyss; also refers to the water's edge; sometimes describes a very deep appearance,Vessel,Baseline
+祀,Continuous sacrificial activities; also used to refer to a year during the Shang Dynasty,"The oracle bone character resembles a bird with outstretched wings, representing the concept of ""flying.""",Baseline
+夏,hot summer; also refers to the Xia Dynasty in ancient China or a term for the Chinese people,Tree,Baseline
+艿,The name of a type of grass; specifically refers to new grass regrowing from the cut old grass roots,"The oracle bone character resembles a person with outstretched arms and legs, possibly indicating movement or dance.",Baseline
+林,Large areas of trees or forests; dense trees or forests,Tree,Baseline
+硪,stone cliff; stone rammer,"The character resembles a person with outstretched arms, representing the concept of ""to hold"" or ""to grasp.""",Baseline
+死,Life ends; no more signs of life,"The oracle bone character resembles a person standing with their arms raised, possibly indicating a gesture of surprise or alarm.",Baseline
+侯,"ancient target for archery; later referring to feudal lords, i.e., noble rulers enfeoffed by ancient emperors",Hanging,Baseline
+析,"Split wood with an axe; extended to mean separate, analyze, or resolve","""Tree, resembling a tree with branches and roots, representing tree or plant.""",Baseline
+潢,"A large expanse of stagnant water; extended to mean vast, broad, and expansive in appearance.","""Water droplet, resembling a small drop of liquid, representing water or rain.""",Baseline
+辟,"Criminal law, governance; monarch or magistrate; rules or laws to be followed","The oracle bone character resembles a bird with outstretched wings, representing the concept of ""bird.""",Baseline
+聯,"connect; bind together, like stringing things with a rope","The oracle bone character resembles a fan with a handle, representing a fan or a tool used to cool oneself down by fanning.",Baseline
+孰,"Originally referring to cooking cooked food or offering food to ancestral temples; later mainly used as an interrogative word ""who"" or ""which""; also meaning ""mature"" or ""skilled.""",House,Baseline
+乎,Initially used to indicate a call or command; later mostly used as a modal particle to express doubt or exclamation.,Fire,Baseline
+巾,"Pieces of cloth used for scrubbing, wrapping, or decoration; such as towels, scarves",Tree,Baseline
+木,trees; plants,Tree,Baseline
+問,"Ask questions or inquire about things; for example, ask for directions or pose questions","The oracle bone character resembles two vertical lines with a horizontal line connecting them at the bottom, representing a door or entranceway. It likely signifies an opening or gateway.",Baseline
+寅,from 3 a.m. to 5 a.m.; also used in ancient times to express a respectful attitude,Tree,Baseline
+鬲,"An ancient three-legged cooking vessel with hollow legs, used for boiling porridge or water; also refers to slaves or used interchangeably with '历' to denote experience.",Mountain,Baseline
+夕,The time of dusk when the moon has just risen after the sun has set;,"The character resembles a vertical line with a diagonal stroke intersecting it near the top right. This structure suggests a door or entrance, likely representing the concept of entering or exiting.",Baseline
+戠,"Originally referring to sharp wooden stakes; later also used to denote anomalies in knowledge, clothing, or natural phenomena.",Tree,Baseline
+引,The action of drawing a bowstring; the meaning of extending or stretching; also used to indicate guiding or leading.,"Number three, resembling a vertical line with two small lines branching out at the top, representing the number three or triad.",Baseline
+臽,fall into a pit; get into trouble,Upward arrow,Baseline
+工,tool; craftsman; also extended to mean work; project; skill; or merit,"A tool used for digging or shaping, resembling a chisel or hammer.",Baseline
+皮,The skin on an animal; the hide stripped from an animal; also refers to the outer layer of an object,"The oracle bone character resembles a person with outstretched arms and legs, possibly representing a person in motion or dancing.",Baseline
+即,Approach food to prepare for a meal; extended meaning: near; immediately,Fish,Baseline
+盂,Ancient containers for holding rice; ancient rice containers,"The oracle bone character resembles a person lying down with their head tilted back and eyes closed, representing sleep or rest.",Baseline
+逸,escape; leisure; indulgence; transcendence; misconduct,"""Tree, resembling a tree with branches and roots, representing tree or plant.""",Baseline
+刃,The sharpest part of the blade,"The oracle bone character resembles a person with arms raised, possibly indicating a gesture of surprise or alarm.",Baseline
+戈,An ancient long-handled weapon with a horizontal blade; later also used to refer to war or military force.,"The character resembles a cross with a vertical line intersecting two horizontal lines. It likely represents a structure or framework, possibly related to building or construction.",Baseline
+具,"Prepare items, such as meals or sacrificial offerings; also refers to complete sets of utensils, like a set of tableware; can also mean 'all' or 'entirety'.",Cat,Baseline
+朢,"A person stands at a high place and gazes into the distance with wide-open eyes; later, it also refers to the time when the moon is fullest.","The character resembles a bird with outstretched wings, representing a bird or related concepts.",Baseline
+庚,"the seventh of the Ten Heavenly Stems; to denote a road, repayment, continuation, or age","""Tree, resembling a tree with branches and roots, representing tree or plant.""",Baseline
+妝,Dress up; adorn; specifically refers to women applying makeup or dressing up,"""Man, resembling a person standing sideways, representing human or person.""",Baseline
+杕,describing the appearance of a tree growing alone; specifically referring to a solitary tree,A person standing sideways,Baseline
+午,the seventh of the Earthly Branches; also refers to the time period of noon,"The oracle bone character resembles two connected loops stacked vertically, with a small gap between them. It likely represents the concept of ""double"" or ""twice,"" possibly related to counting or pairing.",Baseline
+獻,"To present offerings to elders or deities; specifically, to sacrifice with dogs or food.",Fish,Baseline
+乍,"Sudden or brief actions, such as 'at first glance'; also refers to labor activities like weeding and land reclamation, construction, and casting","The character resembles a person standing sideways with arms hanging down, representing human or person.",Baseline
+秜,The phenomenon where rice falls to the ground this year and grows on its own the next year;,"The character resembles a bird with outstretched wings, representing flight or soaring.",Baseline
+兄,"male family members older than oneself, such as elder brothers","The character resembles a person with arms raised, possibly indicating a gesture of surprise or alarm.",Baseline
+兄,"male family members older than oneself, such as elder brothers","The oracle bone character resembles a person with arms raised, possibly indicating a gesture of surprise or alarm.",Baseline
+利,"Benefit; smooth or sharp, originally meaning harvesting crops with a knife","""Person, resembling a person standing sideways, representing human or person.""",Baseline
+宮,the residence of ancient emperors or nobles; later also generally referring to houses or buildings,House,Baseline
+農,"Weeding and tilling with farm tools; later, it generally refers to agriculture or farming","The oracle bone character resembles a structure with two vertical lines at the bottom and a curved line connecting them, topped by two small dots. This character likely represents a type of vessel or container used in ancient rituals or daily life.",Baseline
+農,"Weeding and tilling with farm tools; later, it generally refers to agriculture or farming","The oracle bone character resembles a person with outstretched arms, representing the concept of ""to hold"" or ""to grasp.""",Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,"""Arrow, resembling an arrow pointing downward, representing arrow or shooting.""",Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,Snowflakes,Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,"""Day, resembling the sun with a horizontal line below, representing daytime or day.""",Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,"The oracle bone character resembles a person with outstretched arms and legs, possibly indicating a gesture of surprise or astonishment.",Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,"The oracle bone character resembles a bird with outstretched wings, representing flight or soaring.",Baseline
+刜,strike or sever with a knife;,"The character resembles a person with a grid-like structure above them, possibly representing a roof or shelter. This suggests that the character might represent someone seeking refuge or protection under a shelter.",Baseline

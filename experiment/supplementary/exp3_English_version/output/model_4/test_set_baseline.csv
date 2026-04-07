@@ -1,0 +1,337 @@
+﻿Character,Ground_Truth,LLM_Output,Pipeline
+苴,grass stuffed in shoes; padding grass in shoes,"A person standing on a high place with arms raised, surrounded by symbols resembling flames or sparks, indicating the act of offering sacrifices or performing rituals to heaven.",Baseline
+畕,Two fields connected together; two adjacent fields,"Field, resembling a square plot divided into sections, representing cultivated land or farmland.",Baseline
+采,Pick the fruits or leaves from the tree by hand; pluck the fruits or leaves from the tree with hands,"A plant with a sprouting top, representing growth or new life.",Baseline
+采,Pick the fruits or leaves from the tree by hand; pluck the fruits or leaves from the tree with hands,"Picking fruit from a tree, depicting a hand reaching up to pluck something from a tree.",Baseline
+淄,"the name of a river in Shandong; also the same as '缁', meaning to dye black or to stain","A person wearing a hat, representing a noble or official.",Baseline
+酓,Originally it referred to the act of lowering one's head to drink wine; later it also came to mean the bitter taste of wine; it is also used as a surname (such as the ancient form of the character 'Xiong' in the Chu State's surname 'Xiong').,"A vessel with a lid, representing a container or jar used for storing items.",Baseline
+森,"Many trees gathered together, referring to a forest; also used to describe a large quantity or a dark environment.","Three trees, representing a grove or forest.",Baseline
+向,Originally referring to the echo produced by speaking indoors; later borrowed to indicate direction or orientation.,"House, resembling a roofed structure with an opening, representing a dwelling or residence.",Baseline
+名,"When unable to see each other clearly at night, one would verbally state their own name; later, it came to refer to the name of a person or thing.","A person with an open mouth, representing the act of speaking or shouting.",Baseline
+紳,"The wide belt worn by ancient officials to gird their waist; later, it refers to gentlemen of status and culture.","A person holding a bundle of grain, representing the act of harvesting or gathering crops.",Baseline
+面,"face, facial; also refers to the direction one is facing or oriented towards","Eye, resembling an eye shape with a pupil and eyelid, representing the human eye or vision.",Baseline
+老,"The elderly or aged things; the image of white hair, hunched back, and walking with a cane","A person with raised arms, representing the act of lifting or raising.",Baseline
+皇,"The crown of ancient emperors, extended to mean emperor or monarch; also describes something magnificent or brilliantly radiant","Hand, resembling an open hand with five fingers, representing the human hand or manual action.",Baseline
+皇,"The crown of ancient emperors, extended to mean emperor or monarch; also describes something magnificent or brilliantly radiant","A hand holding a knife, representing the act of cutting or slaughtering.",Baseline
+彔,ancient tool for drawing water from a well; later extended to mean records; blessings; the foot of a mountain; or the color green,"A musical instrument, resembling a drum with a cross-shaped handle above, representing a drum or percussion instrument.",Baseline
+朿,"Thorns on trees or grass, which later evolved into the character 'thorn'; also means to prick or stab someone with a sharp object","Arrow, resembling an arrow with a pointed tip and fletching, representing a projectile weapon.",Baseline
+并,"Two people connected together, indicating merging or togetherness;","Two, resembling two vertical lines with a horizontal line connecting them, representing the number two.",Baseline
+并,"Two people connected together, indicating merging or togetherness;","Two, resembling two parallel lines with a crossbar, representing the number two or duality.",Baseline
+夆,"Encountering face to face; later also used to denote enfeoffment, fragrance, or abundance","A person holding a plant, representing the act of gathering or harvesting.",Baseline
+卒,Originally referring to the completion of garment sewing; later extended to mean ending or completion; also referring to soldiers (because ancient soldiers' uniforms had special markings).,"House, resembling a roofed structure with walls and a door, representing a dwelling or residence.",Baseline
+輦,an ancient cart pulled by people; later also referring to the carriage used by the emperor or empress,"A person holding a weapon, standing before a door with two guards, representing the act of entering or guarding a gate.",Baseline
+狼,A carnivorous animal resembling a dog but more ferocious; often used as a metaphor for a fierce and greedy person.,"A person holding a bow and arrow, representing the action of shooting or hunting.",Baseline
+合,"The lid and the vessel fit together tightly; extended meaning: to conform, to gather, to match","Mouth with roof above, representing a covered mouth or closed mouth, indicating the concept of closing or sealing the mouth.",Baseline
+鬽,"The appearance of ghosts or spirits, possibly referring to a ghost with disheveled hair;","A person holding a bow and arrow, representing the act of hunting or shooting.",Baseline
+夬,split; break off,"Hand, resembling a hand with fingers extended, representing the human hand or manual action.",Baseline
+狽,"A legendary beast; often paired with 'wolf' in the term 'wolf and a legendary beast,' describing someone in a difficult or awkward situation.","A person holding a tool, representing the act of farming or cultivation.",Baseline
+寢,sleeping room or bedroom,"House, resembling a roof structure with a tree inside, representing a dwelling or shelter.",Baseline
+尨,long-haired dog; fluffy appearance,"A person holding a weapon, representing military or warfare.",Baseline
+教,Teaching children with a handheld pointer; Instructing kids using a hand-held pointer,"A person holding a bow and arrow, representing the action of hunting or shooting.",Baseline
+教,Teaching children with a handheld pointer; Instructing kids using a hand-held pointer,"Two people walking together, representing companionship or partnership.",Baseline
+卑,low status; humble identity; or submissive; obedient to orders,"A person wearing armor, representing a warrior or soldier.",Baseline
+壬,the ninth of the Ten Heavenly Stems; also symbolizes the north or the state of alternating yin and yang,"Vertical line, resembling a standing staff or pole, representing a vertical object or support.",Baseline
+夾,Hold something under the arm; or have people on both sides help together,"Person wearing a hat, representing a person with a head covering, indicating a human figure in attire.",Baseline
+夾,Hold something under the arm; or have people on both sides help together,"Person, resembling a human figure with head, arms, and legs, representing a standing person.",Baseline
+晉,"Advance, upgrade; the name of an ancient vassal state, located in the area of present-day Shanxi; also used as the name of a dynasty and the abbreviation for Shanxi Province","Two fish facing downward with a mouth below, representing the act of eating or consuming fish.",Baseline
+孕,pregnancy; carrying a child in the body,"Seed, resembling a seed with a sprout, representing the beginning of plant growth or a seed.",Baseline
+族,"A group formed by the same bloodline or common goals, such as a family; a nation","A person standing under a tree, representing the concept of shelter or resting.",Baseline
+族,"A group formed by the same bloodline or common goals, such as a family; a nation","Gate, resembling a structure with two vertical posts and a crossbar, representing an entrance or doorway.",Baseline
+族,"A group formed by the same bloodline or common goals, such as a family; a nation","A person holding a bow and arrow, aiming upward, representing the act of shooting or hunting.",Baseline
+革,Hide processed to remove hair; also refers to leather items such as armor or harness; later extended to mean change or reform.,"A person wearing a hat, representing a noble or official.",Baseline
+臬,the center of an archery target; later extended to mean a standard or criterion,"A weapon with a pointed tip and two curved hooks, representing a spear or halberd.",Baseline
+隻,alone; a measure word for birds or one of a pair of items,"Person holding a tool, representing labor or work.",Baseline
+豖,Castrated boar; or the way a pig moves with its feet tied,"A person holding a bow, representing the act of archery or hunting with a bow.",Baseline
+醜,ugly; disgusting; shameful; embarrassing,"A person wearing a hat, representing a noble or official.",Baseline
+印,"Press with the hand on a person or object; extended meanings include seal, printing, impression, etc.","Insect, resembling a creature with segmented body and antennae, representing an insect or bug.",Baseline
+畋,Leveling the fields; hunting,"A person holding a bow, representing the act of archery or the concept of shooting with a bow.",Baseline
+敝,shabby clothes; also refers to the action of beating dust off cloth with a stick,"A person holding a staff, representing the act of walking or traveling.",Baseline
+芻,Grass for mowing or fodder for livestock,"Crossing arrows, representing the action of crossing or intersecting.",Baseline
+芻,Grass for mowing or fodder for livestock,"Person holding two trees, representing a person carrying or gathering wood.",Baseline
+舂,Pound grain in a mortar with a pestle held in both hands,"Two people facing each other with a central vertical line, representing confrontation or meeting.",Baseline
+翌,"tomorrow or the next (e.g., the next day, the next year); in ancient times, also used as a name for sacrifices or a personal name","Speaking, from mouth + shell, resembling a mouth and a shell, representing the act of speaking or making sound.",Baseline
+翌,"tomorrow or the next (e.g., the next day, the next year); in ancient times, also used as a name for sacrifices or a personal name","Person standing beside a wall, representing the concept of ""to stand"" or ""standing.""",Baseline
+雛,Newly hatched birds or chicks,"Hunting, depicting a person with raised arms chasing or capturing an animal.",Baseline
+姀,The characters used in ancient women's names; later describing a woman's graceful and elegant demeanor.,"A person holding a bow and arrow, representing hunting or archery.",Baseline
+畜,"Tie the animals caught from hunting with ropes and raise them in the fields; later, it refers to domesticated or raised animals.","A jade pendant with a hole at the top, resembling a vertical oval shape with a cross pattern inside, representing a ceremonial jade ornament used in rituals or as a symbol of status.",Baseline
+雞,Poultry chicken; an animal that crows at dawn,"Rooster, resembling a bird with a prominent comb and long tail feathers, representing the rooster or cock.",Baseline
+雞,Poultry chicken; an animal that crows at dawn,"A person holding a plant, representing the act of gathering or harvesting.",Baseline
+聾,The ears cannot hear sounds;,"A person holding a bow, representing the act of archery or hunting.",Baseline
+葬,Wrap the deceased with wooden planks or straw mats and bury them in the ground;,"War, from two components: a person holding a weapon and a cross-shaped symbol, representing conflict or battle.",Baseline
+葬,Wrap the deceased with wooden planks or straw mats and bury them in the ground;,"A person standing inside a square enclosure, representing imprisonment or confinement.",Baseline
+葬,Wrap the deceased with wooden planks or straw mats and bury them in the ground;,"A square enclosure with a crossbar inside, representing a prison or jail.",Baseline
+葬,Wrap the deceased with wooden planks or straw mats and bury them in the ground;,"Person holding a staff, representing a person standing with a stick or weapon, indicating support or authority.",Baseline
+雩,Ancient sacrificial rituals using music and dance to pray for rain;,"Year, resembling a person carrying crops on their head, representing the harvest season or agricultural cycle.",Baseline
+甘,Sweet; delightful; willing,"Mouth, resembling the shape of a human mouth with an opening, representing the mouth or speech.",Baseline
+遘,meet or encounter on the road; meet or see each other,"Person walking with a staff, representing an elderly person or someone needing support while walking.",Baseline
+遘,meet or encounter on the road; meet or see each other,"Tree, resembling a tree with branches and roots, representing a plant or wood.",Baseline
+遘,meet or encounter on the road; meet or see each other,"A person wearing a headdress, representing ritual or ceremonial attire.",Baseline
+腹,the belly; also extended to mean the core or interior,"A person holding a bow, representing archery or the act of shooting with a bow.",Baseline
+戴,"Wearing something on the head, such as a hat; also means to support or hold in esteem.","A person holding a square object, representing the act of carrying or presenting an object.",Baseline
+麑,fawn or young deer; also refers to a fierce beast similar to a lion,"Bone, resembling the shape of a bone with a central marrow cavity and two ends, representing bone or skeletal structure.",Baseline
+歺,"The appearance of a remnant bone, or a tool resembling a shovel; later extended to mean fierce or to harm.","Bone, resembling a bone shape with sharp ends and a central ridge, representing a bone or skeletal part.",Baseline
+宜,"appropriate, proper; in ancient times, it referred to the meat placed during sacrificial ceremonies, extended to mean dishes or sacrificial rituals","Two, resembling two stacked objects or figures, representing the number two.",Baseline
+蠱,"Artificially cultivated poisonous insects in ancient legends, used to harm people; also refers to disasters or being bewitched","A person standing on a platform, representing the concept of ""to stand"" or ""standing posture.""",Baseline
+蠱,"Artificially cultivated poisonous insects in ancient legends, used to harm people; also refers to disasters or being bewitched","Two hands holding something, representing the act of carrying or holding.",Baseline
+晵,There is currently no clear general meaning for this rare character; it may be a combination of sunlight (日) and opening a door (戶).,"A person with a hand raised, indicating the action of raising one's hand or making a gesture.",Baseline
+晵,There is currently no clear general meaning for this rare character; it may be a combination of sunlight (日) and opening a door (戶).,"A person with a hand raised, indicating the action of raising one's hand or making a gesture.",Baseline
+檀,"a hard wood (sandalwood); also refers to a light red color, or used as a metaphor for a handsome man (e.g., ""sandalwood gentleman""); in Buddhism, it also refers to a benefactor (dānapati)","Tree, resembling a tree with branches and trunk, representing a tree or plant.",Baseline
+劦,Many people work together with effort; cooperating like plowing a field together.,"Three, resembling three vertical lines with cross marks at the bottom, representing the number three.",Baseline
+祝,"Those who pray to deities or preside over sacrificial rites, such as temple priests; also used to express wishes or blessings","A person wearing a hat, representing a noble or official.",Baseline
+祝,"Those who pray to deities or preside over sacrificial rites, such as temple priests; also used to express wishes or blessings","A person with a hat, representing a noble or official.",Baseline
+娩,childbirth; delivery,"A mouth with two lines below, resembling a person speaking or shouting, representing the concept of speech or voice.",Baseline
+逢,meet or come across on the road; encounter or run into,"A person walking with a staff, representing the action of walking or journeying.",Baseline
+狐,"Fox, a canine animal; its fur is valuable; often used to symbolize cunning or nostalgia for one's homeland.","A person holding a bow, representing the act of archery or hunting.",Baseline
+相,"observe, look at each other; later extended to mean mutual, each other, as in 'trust', 'same'","Tree and hand, representing the act of picking or gathering fruit from a tree.",Baseline
+戉,An ancient axe-like weapon; later also refers to the state of Yue or used as a loan character for 'year',"A bird with a long beak, resembling a crane or heron, representing the concept of a bird or bird-like creature.",Baseline
+黹,"Patterns embroidered on clothing with needle and thread; in ancient times, specifically referred to symmetrical designs with two opposing elements; later generalized to decorative embroidery.","A person holding a tool, representing the act of farming or cultivation.",Baseline
+貝,"Shell, once used as currency in ancient times; now mostly refers to treasures or precious things.","Ears, resembling two ear shapes facing each other, representing the sense organ for hearing.",Baseline
+娶,The man takes the woman home to marry her.,"A person holding a bow and arrow, representing hunting or archery.",Baseline
+瞽,"The blind who cannot see with their eyes; in ancient times, it also referred to blind musicians responsible for music.","Person, resembling a human figure with bent arms and legs, representing a person or human being.",Baseline
+帛,"white silk fabric; in ancient times, it referred to silk or cloth","Person, resembling a human figure with head and limbs, representing human or person.",Baseline
+疾,ill or very fast,"Water, resembling flowing water with dots indicating droplets, representing water or water-related things.",Baseline
+疾,ill or very fast,"A person holding a fish, representing fishing or catching fish.",Baseline
+疾,ill or very fast,"Tree, resembling a tree with branches and leaves, representing a tree or plant.",Baseline
+方,"square or direction; can also mean place, method; currently happening","A farming tool, resembling a sickle or hoe, representing agricultural labor or harvest.",Baseline
+阜,A large earthen mound without stones; a highland shaped like a staircase; extended to mean abundant in natural resources,"Number two, resembling two connected strokes forming a shape that represents the concept of duality or the second in sequence.",Baseline
+竝,Two standing people side by side,"Two people walking together, representing companionship or partnership.",Baseline
+竝,Two standing people side by side,"Forest, resembling two trees standing side by side, representing a group of trees or woodland.",Baseline
+得,Pick up money on the road; extend to obtain; get; can; satisfy,"A person holding a weapon, representing the act of attacking or fighting.",Baseline
+宅,place of residence; dwelling,"House, resembling a roof structure with a crossbar inside, representing a dwelling or shelter.",Baseline
+聑,Listen quietly with pricked-up ears; later extended to mean safe and secure,"Bow and arrow, resembling a bow with an arrow drawn back, representing the act of shooting or archery.",Baseline
+甫,Originally referring to vegetables or seedlings growing in the fields; later often used as an honorific for men; also meaning the beginning or just now.,"Tree, resembling a tree with branches and trunk, representing a tree or plant.",Baseline
+申,The pictogram of lightning; later borrowed to represent the eighth of the Earthly Branches; also signifies stretching or extending.,"Snake, resembling the winding shape of a snake's body.",Baseline
+寮,"In ancient times, it referred to a house where many people lived; nowadays, in Taiwan and Japanese, this character still refers to a dormitory or house; it also refers to officials working together (colleagues).","House, resembling a roof structure with an interior cross-shaped support, representing a dwelling or shelter.",Baseline
+戌,"The eleventh Earthly Branch, corresponding to the Dog in the Chinese zodiac; in ancient times, it also referred to an axe-shaped weapon.","Tree, resembling a tree with a trunk and branches, representing a tree or plant.",Baseline
+戚,An ancient axe with serrated blades; later extended to mean relatives or sorrow.,"A musical instrument resembling a horn or trumpet, used for making sound.",Baseline
+姪,"children of siblings; such as nephews, nieces","Insect, resembling a bug with segmented body and legs, representing an insect or small creature.",Baseline
+鬱,depressed and unhappy; also refers to the lush appearance of vegetation,"A person holding two plants, representing the act of gathering or collecting herbs.",Baseline
+鬱,depressed and unhappy; also refers to the lush appearance of vegetation,"A person walking between two trees, representing the action of passing through or going among trees.",Baseline
+虣,To fight a tiger with weapons; extended to mean tyrannical or ferocious behavior,"A person holding a staff, representing an elder or someone of high status.",Baseline
+杲,"The sun rises above the treetops, depicting brightness or the moment of dawn;","Person standing under a tree, representing someone resting or sheltering beneath a tree.",Baseline
+弦,"The string on a bow used to shoot arrows; later also referring to the strings on musical instruments that produce sound, such as the strings of a qin.","Hand, resembling a hand with fingers extended, representing the human hand or grasping action.",Baseline
+步,walk slowly; ancient unit of length (distance of one stride); surname,"Two antlers, resembling the shape of deer antlers, representing a deer or animal with antlers.",Baseline
+畐,ancient wine jar; later also symbolizing blessings and abundance,"Stacked stones, resembling a pile of stones or bricks arranged in a tower-like structure, representing a stack or pile.",Baseline
+鼠,"Small rodents that steal food and gnaw on items, such as house mice; field mice","A person standing with arms raised, representing the action of raising hands or a gesture of offering.",Baseline
+霸,Originally referring to the white glow of the newly appeared moon; later extended to mean dominance or supremacy.,"A person holding a shield, representing defense or protection.",Baseline
+隹,Birds with short tails; also used as a modal particle or a variant character.,"Person, resembling a human figure with head and limbs, representing a person or human being.",Baseline
+王,"the supreme ruler in ancient times, symbolizing authority; also refers to jade or a surname","Altar, resembling a raised platform with horizontal beams, representing a sacrificial altar used in rituals.",Baseline
+王,"the supreme ruler in ancient times, symbolizing authority; also refers to jade or a surname","A tripod, resembling a three-legged cooking vessel with a wide base and a central support, representing an ancient cooking or ritual vessel.",Baseline
+王,"the supreme ruler in ancient times, symbolizing authority; also refers to jade or a surname","King, resembling a simplified form of a ceremonial staff or scepter, representing royal authority or the ruler.",Baseline
+辛,The pungent taste that brings tears to the eyes; the feeling of toiling and suffering; also used to denote the eighth of the ten Heavenly Stems.,"Tree, resembling a plant with a trunk and branches, representing a tree or plant.",Baseline
+疐,"It refers to the stem of a plant; an obstacle or pause; a sneeze; or the fundamental meaning, such as the stem of a fruit; being tripped while walking; a sudden sneeze; it can also represent the foundation of things.","A plant with a crown-like top and a cross-shaped center, resembling a sprouting seed or young plant, representing growth or the beginning of life.",Baseline
+賈,merchant or trader's price; business transaction price,"A person carrying a burden on their back, representing the action of bearing or carrying something heavy.",Baseline
+滳,It might be the name of a river; or related to water flow,"A person holding a bow, representing the act of archery or hunting.",Baseline
+鬼,The soul or supernatural being after death; also refers to a sinister and cunning person.,"A person wearing a hat, representing a noble or official.",Baseline
+焚,"Using fire to burn trees or weeds; later, it generally refers to all burning behaviors.","A basket with two tree branches inside, representing a container holding wood or offerings.",Baseline
+焚,"Using fire to burn trees or weeds; later, it generally refers to all burning behaviors.","Four, resembling four cross-shaped marks arranged in a square pattern, representing the number four.",Baseline
+莫,When the sun sets; in the evening,"Face, resembling two eyes above a mouth, representing the human face or facial expression.",Baseline
+莫,When the sun sets; in the evening,"A person holding a bow and arrow, aiming at a target, representing the action of shooting or hunting.",Baseline
+莫,When the sun sets; in the evening,"Four birds surrounding a mouth, representing the concept of ""to call"" or ""to summon"" through vocalization.",Baseline
+莫,When the sun sets; in the evening,"Four trees surrounding a central rectangle, representing a courtyard or enclosure.",Baseline
+莫,When the sun sets; in the evening,"Face, resembling two eyes and a mouth, representing facial features or expression.",Baseline
+兵,weapons or soldiers carrying weapons,"Two people facing each other, representing meeting or encounter.",Baseline
+嬂,Characters used as female names in ancient times,"Insect, resembling a bug with segmented body and legs, representing insect or small creature.",Baseline
+秋,the third season of the year; the weather turns cooler; the time when crops mature and are harvested,"A bird with a long beak and raised head, representing a bird or avian creature.",Baseline
+秋,the third season of the year; the weather turns cooler; the time when crops mature and are harvested,"Mountain, resembling a mountain shape with peaks and valleys, representing a high landform or elevated terrain.",Baseline
+唬,The roar of a tiger; also used to describe someone's bluster or empty threats.,"Penalty, resembling a person with a mouth and a whip, indicating punishment or reprimand.",Baseline
+汜,A branch that diverges from the main channel and then flows back; a distributary that rejoins the main stream,"Water, resembling flowing water with a hook-like shape indicating movement, representing water or liquid.",Baseline
+亢,"It may refer to a person's neck, or indicate an arrogant, haughty attitude; it can also mean to lift or raise, as in the idiom 'neither haughty nor humble,' which describes a proper demeanor.","A person with arms raised, representing a standing human figure.",Baseline
+洒,Flush or disperse liquid; such as sprinkling water; sweeping and sprinkling,"Fish, resembling a fish with a long body and fins, representing fish or fishing.",Baseline
+囡,little girl; an affectionate term for a girl in dialect,"A person inside a boundary, representing the concept of being within or central.",Baseline
+發,"The action of shooting an arrow or launching; later extended to mean departure, occurrence, etc.","A person holding a bow, representing the act of archery or hunting with a bow.",Baseline
+釋,release; lift; explain; or related to Buddhism,"A person holding a staff or tool, representing the act of carrying or supporting something.",Baseline
+辥,The exact meaning cannot be determined for now; it may be a character used in ancient personal names or place names.,"Bow, resembling a bent bow with string, representing the weapon or tool used for shooting arrows.",Baseline
+賓,The host welcomes the guest into the house; it also refers to the guest or presenting gifts.,"A house with a hand inside, representing the concept of ""to enter"" or ""to go into.""",Baseline
+賓,The host welcomes the guest into the house; it also refers to the guest or presenting gifts.,"A house with a person inside, representing the concept of dwelling or residence.",Baseline
+馬,"a quadruped animal, commonly used for riding or pulling carts; an important means of transportation and military equipment in ancient times","A person holding a bow and arrow, representing hunting or archery.",Baseline
+羞,Originally it referred to offering food such as lamb by hand; later it was also used to express embarrassment or shyness.,"A person holding a plant, representing the act of gathering or harvesting.",Baseline
+凡,summary; ordinary; mundane,"A ladder, resembling a structure with two vertical supports and horizontal rungs, representing a tool for climbing.",Baseline
+濘,Muddy; refers to roads or ground becoming slippery and difficult to traverse due to rain.,"A person with a hand raised, representing the action of picking or harvesting.",Baseline
+媟,disrespectful behavior; irreverent conduct,"A person holding a tree, representing the act of carrying or transporting wood.",Baseline
+炎,The appearance of a raging flame or fire; now often used to describe extremely hot weather or inflammation in the body.,"Two mouths stacked vertically, representing a sound or vocalization.",Baseline
+未,"It can represent the eighth of the Earthly Branches; it can also denote negation, equivalent to 'not' or 'not yet.' For example, '未来' means time that has not yet arrived; '未知' refers to things that are not yet known.","Tree, resembling a tree with branches and roots, representing a plant or tree.",Baseline
+淵,deep pool; very deep place,"River, resembling flowing water with a bend, representing a river or stream.",Baseline
+釆,It means to distinguish or differentiate; some also believe it to be the earliest form of the character 'sow' (播).,"Cross, resembling intersecting lines, representing the concept of crossing or intersection.",Baseline
+奠,"Originally it referred to placing wine on the table as an offering; later it extended to mean to establish or lay the foundation (e.g., to lay a cornerstone, to establish); it also refers to commemorating the deceased.","A vessel with a wide mouth and narrow base, resembling a cup or container used for holding liquids.",Baseline
+折,"To cut off grass and trees with an axe; extended meanings include breaking, bending, losing, etc.","Two downward-pointing arrows with a curved line to the right, representing the action of descending or going down.",Baseline
+敏,Quick movements; agile reactions,"Insect, resembling a bug with segmented body and antennae, representing insect or small creature.",Baseline
+臭,"Dogs smell with their noses; later, it generally refers to various smells.","A person wearing a hat, representing a noble or official.",Baseline
+妹,"a female peer younger than oneself, such as a younger sister; can also refer to a young girl","Tree, resembling a tree with branches and trunk, representing a tree or plant.",Baseline
+三,All fingers; three dots of rain indicate rain,"Three, resembling three horizontal lines, representing the number three or a quantity of three.",Baseline
+臺,A high and flat four-sided building; later also referring to a raised platform; the name of an ancient government office; or a term of respect for others,"Person standing with raised hand, representing a person standing upright with one arm raised, possibly indicating a gesture of offering or greeting.",Baseline
+畫,Drawing graphics; delineating boundaries; or carving decorations,"A person holding a bow and arrow, representing hunting or archery.",Baseline
+霾,"The air is filled with dust or smoke, resulting in a weather phenomenon with dim daylight.","A person holding a bundle of grain, representing the act of harvesting or carrying grain.",Baseline
+獲,Items obtained through hunting;,"Person walking, resembling a human figure in motion with one leg forward, representing the action of walking or moving.",Baseline
+獲,Items obtained through hunting;,"A person holding a bow and arrow, representing hunting or archery.",Baseline
+翼,bird's wing; something resembling a wing (such as eaves); also means protection or assistance,"Shield, resembling a protective armor with a curved shape and grid pattern, representing defense or protection.",Baseline
+涂,Originally referring to a river in Yunnan (the Niulan River); later also used to denote the action of smearing or a place name.,"A person holding an arrow, representing the act of shooting or hunting.",Baseline
+缶,An ancient pottery jar used for holding wine or water; the people of Qin also used it as a musical instrument for beating and singing.,"A house with a roof and a door, representing dwelling or residence.",Baseline
+磬,Ancient stone percussion instrument hung and struck with a mallet; lithophone.,"A person holding a plant, representing the act of planting or cultivation.",Baseline
+磬,Ancient stone percussion instrument hung and struck with a mallet; lithophone.,"A person holding a weapon, representing attack or strike.",Baseline
+刀,"A bladed tool or weapon, shaped like a metal piece with an edge, used for cutting or combat; also refers to an ancient type of coin; can also be used as a surname or place name.","Hand, resembling a human hand with fingers extended, representing the concept of hand or manual action.",Baseline
+置,Place something somewhere; establish or set up; purchase items; let go or give up; ancient term for a relay station,"A hand holding a knife above a container, representing the act of cutting or sacrificing.",Baseline
+炋,It may be a negative connotation related to fire; the exact meaning requires more information to confirm.,"Mountain, resembling a mountain shape with peaks and valleys, representing a mountain or high landform.",Baseline
+斝,An ancient bronze wine vessel with three legs and a handle; later also refers to wine cups or tea cups in general.,"Ladder, resembling a structure with two vertical supports and horizontal rungs, representing a ladder or steps.",Baseline
+正,"Advancing towards the goal; later extended to mean correct, proper, and not deviating.","Mouth, resembling a square opening with a downward curve below, representing the human mouth or oral cavity.",Baseline
+正,"Advancing towards the goal; later extended to mean correct, proper, and not deviating.","A person holding a staff or stick, representing a leader or official.",Baseline
+伊,The name of the ancient virtuous minister Yi Yin; later also refers to the third-person pronoun 'he' or 'she',"Person walking, resembling a person with one leg forward and arms swinging, indicating movement or walking.",Baseline
+亟,ultimate; rapid; highest point or criterion,"Five, resembling a cross with a diagonal stroke, representing the number five.",Baseline
+艱,difficult; not easy things,"Insect, resembling a creature with antennae and segmented body, representing an insect or bug.",Baseline
+艱,difficult; not easy things,"A person holding a bow, representing the act of archery or hunting.",Baseline
+艱,difficult; not easy things,"A person standing before a vessel with a plant growing from it, representing the act of offering or sacrifice.",Baseline
+豭,boar; later also referring to pigs in general,"A person walking, resembling a figure with one leg forward and arms swinging, representing the action of walking or moving forward.",Baseline
+夷,"Refers to ancient Eastern peoples; also means flat or leveling; in oracle bone script, it depicts the action of shooting prey with an arrow tied to a rope.","A woman holding a child, representing motherhood or childbirth.",Baseline
+及,Catch up; seize; reach a certain place or time,"Person walking, resembling a human figure in motion with one leg forward, representing the action of walking or moving.",Baseline
+五,"The number five, representing a quantity of five; commonly used for counting or ordering.","Cross, resembling two intersecting lines forming an X-shape, representing the concept of crossing or intersection.",Baseline
+邍,high and flat open land; people can go up to move around,"Arrow, resembling an arrow with a pointed tip and fletching, representing a projectile weapon.",Baseline
+娠,pregnancy,"Insect, resembling a bug with segmented body and antennae, representing an insect or bug.",Baseline
+椃,It may be a specific object or concept related to trees or tigers; further information is needed to confirm the exact meaning.,"A person holding a weapon, representing hunting or warfare.",Baseline
+興,"People join forces to lift or start something; later extended to mean beginning, flourishing, or being in high spirits.","A person holding a tool, representing the act of farming or cultivation.",Baseline
+興,"People join forces to lift or start something; later extended to mean beginning, flourishing, or being in high spirits.","A person wearing a hat, representing a noble or official.",Baseline
+戎,Weapons or military-related matters; also refers to ancient terms for foreign ethnic groups,"A weapon with a long handle, resembling a spear or halberd, used in warfare or hunting.",Baseline
+尋,"Stretch out arms to measure length; in ancient times, eight chi equaled one xun; also refers to sacrificial rites or repeated investigation","A person with arms raised, resembling a figure standing with hands up, representing the action of offering or worship.",Baseline
+旦,The morning when the sun has just risen; the time when the sky is just getting light,"Two, resembling two stacked circular shapes, representing the number two or a pair.",Baseline
+旦,The morning when the sun has just risen; the time when the sky is just getting light,"Two mouths, representing speech or sound.",Baseline
+眢,The eyes cannot see things;,"Hunting, depicting a person with a bow and arrow aiming at a deer, representing the act of hunting.",Baseline
+抎,lose or drop something,"Wind, resembling swirling air currents with a cross-like mark indicating direction or movement, representing wind or breeze.",Baseline
+父,father or male elder; also used as a respectful term for an older man,"Person, resembling a human figure with bent arms and legs, representing a person or human being.",Baseline
+櫓,large shield used in ancient warfare; watchtower on a city wall; long oar for rowing,"Moon, resembling a crescent shape, representing the moon or lunar phase.",Baseline
+召,greeting; invitation; entertaining others,"Breathing, resembling a mouth with breath rising from it, representing the act of breathing or exhalation.",Baseline
+倗,"assistant or friend; in ancient times, it also referred to companions","Person standing on a platform, representing a person standing or being elevated.",Baseline
+東,the direction where the sun rises; master or employer; the direction symbolizing masculinity,"Fish, resembling a fish with fins and tail, representing fish or aquatic creature.",Baseline
+卯,"the fourth of the twelve Earthly Branches; in ancient times, it also referred to the act of slaughtering livestock or cutting open","Two, resembling two parallel lines with triangular tops, representing the number two or a pair.",Baseline
+麝,An animal resembling a small elk; secretes musk from its navel,"Hunting, depicting a person with a bow and arrow aiming at a deer, representing the act of hunting.",Baseline
+水,"Colorless and odorless transparent liquid in nature; also refers to bodies of water such as rivers, lakes, and seas.","Water, resembling flowing water with wavy lines and droplets, representing water or water-related things.",Baseline
+豩,"Two pigs together may be pigs chasing or fighting each other; it could also refer to a group of pigs running around wildly; in ancient times, it was also used to mean stubborn or aggressive.","Two feet walking, representing the action of walking or movement.",Baseline
+鳥,long-tailed birds; generally refers to birds,"Bird, resembling the shape of a bird with a beak and body, representing a bird or avian creature.",Baseline
+偪,"Originally it referred to a state of being full; later it also came to mean coercion or invasion; in ancient times, it was additionally used as a name for sacrificial rites.","Person holding a vessel, representing the act of carrying or presenting a container.",Baseline
+虎,"Tiger, a fierce large feline; also describes a brave or majestic appearance","A person wearing a hat, representing the concept of ""to wear"" or ""to put on.""",Baseline
+丮,The gesture of holding or cupping something with both hands; also signifies the action of kneeling in prayer.,"A person holding a bow and arrow, representing hunting or archery.",Baseline
+品,Multiple things gathered together; or referring to the level and type of things,"Three mouths, representing the concept of many people speaking or a gathering of voices.",Baseline
+人,human or individual person,"Person, resembling a human figure with head and body, representing a person or human being.",Baseline
+楚,"Clumps of trees, specifically a plant called ""Jing""; also refers to the ancient state of Chu, named for its abundance of thorns; later extended to meanings such as clear and orderly (e.g., ""清楚""), or suffering (e.g., ""苦楚"").","Tree, resembling a tree with branches and roots, representing a tree or plant.",Baseline
+楚,"Clumps of trees, specifically a plant called ""Jing""; also refers to the ancient state of Chu, named for its abundance of thorns; later extended to meanings such as clear and orderly (e.g., ""清楚""), or suffering (e.g., ""苦楚"").","A plant with a central stem and branches, representing vegetation or growing things.",Baseline
+我,refer to oneself; first-person pronoun,"A person holding a bow, representing archery or the act of shooting with a bow.",Baseline
+夌,Climbing mountains or crossing obstacles; later extended to mean surpassing or transcending.,"A person with arms raised, resembling a figure standing with hands lifted upward, representing the act of raising hands or offering.",Baseline
+臣,"In ancient times, it referred to slaves or officials serving the monarch; originally depicting wide-eyed appearance, later borrowed to denote those who are ruled or subservient.","A musical instrument resembling a horn or flute, representing sound or music.",Baseline
+妦,describe a woman's beautiful appearance and graceful demeanor; depict a woman's lovely looks and elegant posture,"Insect on a plant, representing an insect crawling on a plant.",Baseline
+余,Originally referring to a simple thatched hut; later borrowed to denote the personal pronoun 'I'; it can also mean 'superfluous' or 'to give.',"Arrow, resembling an arrowhead with a shaft and fletching, representing a projectile or direction.",Baseline
+遼,far away; vast; also used in ancient place names and river names,"A person speaking, with mouth open and hand gesture indicating speech, representing the act of talking or speaking.",Baseline
+廼,"In ancient usage, it means 'then' or 'so'; it is rarely used alone nowadays.","Hand holding a grain of rice, representing the act of holding or grasping food.",Baseline
+聲,sound; noise,"A person holding a tool, representing the act of cutting or carving.",Baseline
+聲,sound; noise,"A house with a tree on top, representing a dwelling or residence.",Baseline
+紤,It may be a character related to ancient silk processing or cutting; its specific meaning is not clearly documented.,"A bow, resembling a bent stick with a string, representing the weapon used for shooting arrows.",Baseline
+編,Tie bamboo slips together with a rope; arrange them in order; write the text; weave items; fabricate a story,"A person standing before a gate, representing the act of entering or approaching a gate.",Baseline
+尸,The living who receive sacrifices for the deceased; later also referring to the memorial tablet or the act of holding a position without doing any work.,"River, resembling flowing water with a winding shape, representing a river or stream.",Baseline
+秦,"The ancient name of the Qin State, derived from the abundance of grain in the region; or refers to the action of threshing grain with a pestle.","A person holding a bundle of grass or herbs, indicating the act of gathering or carrying vegetation.",Baseline
+孫,son's son; descendants,"Child, resembling a small person with a round head and short body, representing a child or young person.",Baseline
+网,"A tool made of rope for catching fish, shrimp, birds, or animals; now also refers to networked systems like the internet.","Gate, resembling a structure with two vertical posts and crossbars, representing an entrance or gateway.",Baseline
+术,skill; method; specialized knowledge,"Water, resembling flowing water with three wavy lines, representing water or water-related things.",Baseline
+朕,"The self-referential term used by ancient emperors (such as ""L'État, c'est moi""); originally referred to the act of repairing boat seams; later extended to mean small omens or signs.","A person holding a knife, representing the act of cutting or slaughter.",Baseline
+龖,the appearance of two dragons flying together,"A musical instrument resembling a zither, with strings and a curved body, representing the concept of music or a specific stringed instrument.",Baseline
+虤,The appearance of two tigers angrily fighting; the sight of two enraged tigers battling,"Mountain, resembling a mountain shape with peaks and slopes, representing a high landform or elevated terrain.",Baseline
+逆,"Opposite or contrary in direction, such as against the wind or going the wrong way; it can also mean to meet or confront, such as reverse thinking which is considering a problem from a different angle.","Deer antler, resembling the shape of a deer's antlers, representing deer or deer-related things.",Baseline
+逆,"Opposite or contrary in direction, such as against the wind or going the wrong way; it can also mean to meet or confront, such as reverse thinking which is considering a problem from a different angle.","Walking, resembling a person with legs moving forward, indicating the action of walking or going.",Baseline
+逆,"Opposite or contrary in direction, such as against the wind or going the wrong way; it can also mean to meet or confront, such as reverse thinking which is considering a problem from a different angle.","Walking, resembling a person with legs moving forward, indicating the action of walking or going.",Baseline
+室,Living room or household,"House, resembling a roof covering a plant or tree, representing a dwelling or shelter.",Baseline
+夸,excessive ostentation; extravagance; or used for praise; admiration,"A person holding a weapon, representing the act of fighting or warfare.",Baseline
+啟,"open; teach; enlighten, such as open the door; enlightenment; start","Person holding a weapon, representing attack or combat.",Baseline
+湡,"the name of a river, also called Shahe; located in southern Hebei","Water, resembling flowing water with droplets, representing water or water-related things.",Baseline
+羊,A domestic animal with a pair of curved horns on its head; a creature symbolizing auspiciousness and beauty,"Tree, resembling a plant with branches and leaves, representing a tree or vegetation.",Baseline
+稠,"describing a large, dense quantity; such as dense seedlings, a large population, or intricate patterns","A tree growing on a raised platform, representing a sacred or elevated place for worship or offerings.",Baseline
+枼,Leaves on the tree; later also used to denote generations or periods,"Plant, resembling a plant with a stem and three leaves, representing vegetation or plant growth.",Baseline
+血,"red liquid flowing in the bodies of humans or animals; in ancient times, it also referred to the blood of sacrificial animals","A person with hands raised, representing worship or offering.",Baseline
+別,"Separate the flesh from the bone with a knife; later extended to mean separate, distinguish, or leave.","Person walking, resembling a human figure in motion with one leg forward, representing the action of walking or moving.",Baseline
+濩,Rainwater flows down the eaves;,"A person with hands raised, resembling a figure standing upright with arms lifted, representing the act of worshipping or offering.",Baseline
+扔,Throw by hand or discard;,"Hand, resembling a hand with fingers extended, representing the human hand or grasping action.",Baseline
+丁,The fourth of the Heavenly Stems; ancient term for a city or town; also used as a personal name or time marker,"City, resembling a square city wall, representing a city or capital.",Baseline
+飤,the act of a person eating; food,"A person holding a vessel above their head, representing the act of offering or presenting.",Baseline
+黽,"Frog species, specifically the pot-bellied frog","A woman with a headdress, representing a female figure or woman.",Baseline
+潦,describe heavy rain; describe pouring rain,"A person holding a bundle of grass or herbs, indicating the act of gathering or carrying plants.",Baseline
+內,From the outside to the inside; refers to the internal or inner space or scope,"A frame or rack, resembling a structure with two vertical supports and a horizontal crossbar, representing a stand or support.",Baseline
+奚,"In ancient times, it referred to a slave whose braid was seized; later, it was also used as an interrogative word meaning 'why' or 'where'; occasionally, it was borrowed to mean 'chicken'.","A string of beads or a necklace, resembling a vertical line with circular shapes connected together, representing a decorative item worn around the neck.",Baseline
+亡,escape; disappear; none; die,"Moon, resembling a crescent moon shape, representing the moon or night.",Baseline
+亡,escape; disappear; none; die,"A person walking, resembling a figure in motion with one leg forward, representing the action of walking or moving.",Baseline
+舞,Swinging the body while holding props; performing activities by stepping to the rhythm with the feet; now broadly refers to various dances.,"Tree, resembling a tree with a trunk and branches, representing a tree or plant.",Baseline
+歲,a year or age; related to the orbital period of Jupiter,"Waiting, from person + standing, resembling a person standing still, representing the state of waiting or staying.",Baseline
+易,"Originally it referred to bestowing property; later it extended to mean exchange, change, or ease. For example, ""交易"" means exchanging goods; ""易如反掌"" describes something as very simple.","Water, resembling flowing water with three wavy lines, representing water or water-related things.",Baseline
+服,obey; do things; clothes or undertake duties,"A person holding a tool, representing the act of cutting or carving.",Baseline
+念,"thinking of or keeping something in mind; such as longing, thoughts","Shield, resembling a protective shield with a horizontal bar at the top, representing defense or protection.",Baseline
+冎,The appearance of a bone being broken or separated.,"Number two, resembling two horizontal lines connected by a diagonal line, representing the quantity of two.",Baseline
+弄,to fiddle with something with hands; also refers to playing a musical instrument or a passage of music,"A person with arms raised, representing a ritual or ceremonial act.",Baseline
+闔,door leaf or closing door,"A person with mouth open, resembling a person shouting or calling out, representing the action of shouting or calling.",Baseline
+濤,big waves; or sounds like waves,"River, resembling flowing water with a bend, representing a river or stream.",Baseline
+弜,Two bows side by side indicate toughness or repetition;,"Two pieces of cloth or fabric, resembling two vertical strips with wavy edges, representing cloth or textile.",Baseline
+舟,Ancient boats hollowed out from wood;,"A curved object with a pointed end and three horizontal lines, resembling a sickle or crescent-shaped tool, representing a farming implement used for cutting.",Baseline
+嫀,Names of female slaves or women sent from the Qin region during the Shang Dynasty,"Insect in the forest, representing a group of insects or insect infestation in woods.",Baseline
+中,"the middle position or state; can also mean to conform or suit, such as 'to like'","Center, resembling a central point with lines extending vertically and horizontally, representing the center or middle.",Baseline
+市,A place for buying and selling things; a walled market,"Tree, resembling a tree with branches and trunk, representing a tree or wood.",Baseline
+牟,The sound of a cow's call; later also used to mean seeking profit.,"Tree, resembling a tree with branches and trunk, representing a plant or tree.",Baseline
+戶,single-leaf door; also refers to a family or household,"Ladder, resembling a vertical structure with two horizontal rungs, representing a climbing tool or stairs.",Baseline
+家,Places where people live; also refers to families or professionals,"House, resembling a roof structure with a person inside, representing dwelling or residence.",Baseline
+家,Places where people live; also refers to families or professionals,"A person standing inside a house, representing the concept of being at home or residing.",Baseline
+嚨,Throat; the part of the voice where sound is produced,"Drinking, resembling a person holding a vessel to drink, with the mouth part indicating the act of drinking.",Baseline
+豹,A tiger-like animal with round spots; a fierce beast of the cat family,"A person with a hat, representing a noble or official.",Baseline
+龏,Holding the dragon respectfully with both hands signifies an attitude of reverence and humility.,"A person holding a bow and arrow, representing hunting or archery.",Baseline
+疑,feel uncertain; can't make up one's mind,"Person, resembling a human figure with head, arms, and legs, representing a human being.",Baseline
+蛷,An insect; possibly referring to a small bug that makes noise or causes discomfort,"Tree, resembling a plant with a trunk and branches, representing a tree or plant.",Baseline
+桑,"Mulberry tree, the leaves are food for silkworms; in ancient times, it was also used as a place name or the name of a state.","Tree, resembling a tree with branches and roots, representing a tree or plant.",Baseline
+黍,A sticky grain used for brewing wine or making pastries; an important food crop in ancient times,"Plant, resembling a plant with branches and leaves, representing vegetation or growing plant.",Baseline
+黍,A sticky grain used for brewing wine or making pastries; an important food crop in ancient times,"Water, resembling flowing water with droplets, representing water or water-related things.",Baseline
+此,"Referring to the immediate place or thing, as opposed to 'there'; indicating the present location or object, in contrast to 'there'.","Hand, resembling a hand with fingers extended, representing the human hand or grasping action.",Baseline
+解,"Cut open the ox horn with a knife; extended meanings include separate, dismantle, understand, relax","A plant with two hands holding it, representing the act of harvesting or gathering plants.",Baseline
+嬉,Originally referring to a woman's beautiful appearance; later often used to mean playing or having fun.,"Insect, resembling a bug with segmented body and antennae, representing an insect or bug.",Baseline
+濼,"The name of an ancient river near Jinan, Shandong; later also used to mean entertainment.","A pair of hands holding a plant with branches, representing the act of gathering or harvesting.",Baseline
+遝,messy; numerous,"A bird with outstretched wings, representing a flying bird or the act of flight.",Baseline
+潭,deep water or abyss; also refers to the water's edge; sometimes describes a very deep appearance,"A vessel with a narrow neck and wide body, suspended between two vertical lines, representing a container or jar used for holding liquids or grains.",Baseline
+祀,Continuous sacrificial activities; also used to refer to a year during the Shang Dynasty,"A person holding a vessel, representing the act of offering or worship.",Baseline
+夏,hot summer; also refers to the Xia Dynasty in ancient China or a term for the Chinese people,"A person wearing a hat, representing a noble or official.",Baseline
+艿,The name of a type of grass; specifically refers to new grass regrowing from the cut old grass roots,"Rain, resembling water drops falling from the sky, representing rainfall or rain.",Baseline
+林,Large areas of trees or forests; dense trees or forests,"Forest, resembling two trees side by side, representing a group of trees or woodland.",Baseline
+硪,stone cliff; stone rammer,"Wall, resembling a vertical structure with a horizontal top and bottom, representing a wall or barrier.",Baseline
+死,Life ends; no more signs of life,"Divination, from person + divination tool, resembling a person holding a divination tool, representing the act of divination or fortune-telling.",Baseline
+侯,"ancient target for archery; later referring to feudal lords, i.e., noble rulers enfeoffed by ancient emperors","A person standing inside a house, representing the concept of being at home or residing.",Baseline
+析,"Split wood with an axe; extended to mean separate, analyze, or resolve","Tree with a sharp object beside it, representing the action of cutting or chopping wood.",Baseline
+潢,"A large expanse of stagnant water; extended to mean vast, broad, and expansive in appearance.","River, resembling a flowing water shape with a cross-like pattern in the center, representing a river or stream.",Baseline
+辟,"Criminal law, governance; monarch or magistrate; rules or laws to be followed","A person holding a bow, representing the act of archery or hunting.",Baseline
+聯,"connect; bind together, like stringing things with a rope","A bow with a string, representing the weapon used for shooting arrows.",Baseline
+孰,"Originally referring to cooking cooked food or offering food to ancestral temples; later mainly used as an interrogative word ""who"" or ""which""; also meaning ""mature"" or ""skilled.""","A hand reaching toward a house, representing the action of entering or approaching a dwelling.",Baseline
+乎,Initially used to indicate a call or command; later mostly used as a modal particle to express doubt or exclamation.,"Young person, resembling a simplified human figure with three short strokes above the head, representing youth or a child.",Baseline
+巾,"Pieces of cloth used for scrubbing, wrapping, or decoration; such as towels, scarves","A farming tool with a long handle and three prongs, representing a plow or hoe used for tilling the soil.",Baseline
+木,trees; plants,"Tree, resembling a tree with branches and roots, representing a tree or wood.",Baseline
+問,"Ask questions or inquire about things; for example, ask for directions or pose questions","Two mouths facing each other, representing conversation or speaking.",Baseline
+寅,from 3 a.m. to 5 a.m.; also used in ancient times to express a respectful attitude,"A woman with a hat, representing a female figure wearing headwear, indicating a woman or female person.",Baseline
+鬲,"An ancient three-legged cooking vessel with hollow legs, used for boiling porridge or water; also refers to slaves or used interchangeably with '历' to denote experience.","A hand with fingers extended, representing the act of grasping or holding.",Baseline
+夕,The time of dusk when the moon has just risen after the sun has set;,"A curved line resembling a bent arm or hook, representing the concept of ""to bend"" or ""curved shape.""",Baseline
+戠,"Originally referring to sharp wooden stakes; later also used to denote anomalies in knowledge, clothing, or natural phenomena.","Tree, resembling a tree with a trunk and branches, representing a tree or plant.",Baseline
+引,The action of drawing a bowstring; the meaning of extending or stretching; also used to indicate guiding or leading.,"Number three, resembling a curved line with three distinct bends, representing the quantity three.",Baseline
+臽,fall into a pit; get into trouble,"Stop, resembling a hand holding a staff or tool, indicating the action of stopping or halting.",Baseline
+工,tool; craftsman; also extended to mean work; project; skill; or merit,"Work, resembling a tool or instrument, representing labor or craftsmanship.",Baseline
+皮,The skin on an animal; the hide stripped from an animal; also refers to the outer layer of an object,"Moon, resembling a crescent moon shape, representing the moon or lunar phase.",Baseline
+即,Approach food to prepare for a meal; extended meaning: near; immediately,"A person standing with arms raised, representing the act of offering or worship.",Baseline
+盂,Ancient containers for holding rice; ancient rice containers,"A person standing on a platform, representing the act of standing or being present.",Baseline
+逸,escape; leisure; indulgence; transcendence; misconduct,"Grass, resembling a plant with leaves and stem, representing vegetation or herb.",Baseline
+刃,The sharpest part of the blade,"Down, resembling a downward pointing arrow or slope, representing the concept of downward direction or descending.",Baseline
+戈,An ancient long-handled weapon with a horizontal blade; later also used to refer to war or military force.,"Standing person, resembling a human figure with head, body, and legs, representing the action of standing or being upright.",Baseline
+具,"Prepare items, such as meals or sacrificial offerings; also refers to complete sets of utensils, like a set of tableware; can also mean 'all' or 'entirety'.","Cat, resembling a feline with pointed ears and a long tail, representing a domestic cat or wild feline.",Baseline
+朢,"A person stands at a high place and gazes into the distance with wide-open eyes; later, it also refers to the time when the moon is fullest.","A person holding a staff or stick, representing a standing figure with an object in hand.",Baseline
+庚,"the seventh of the Ten Heavenly Stems; to denote a road, repayment, continuation, or age","A person holding a plant or tree, representing agriculture or farming.",Baseline
+妝,Dress up; adorn; specifically refers to women applying makeup or dressing up,"Insect, resembling a bug with segmented body and legs, indicating an insect or small creature.",Baseline
+杕,describing the appearance of a tree growing alone; specifically referring to a solitary tree,"Person walking with a staff, representing someone using a stick to assist movement, indicating the concept of walking or traveling.",Baseline
+午,the seventh of the Earthly Branches; also refers to the time period of noon,"Two, resembling two connected loops, representing the number two or a pair.",Baseline
+獻,"To present offerings to elders or deities; specifically, to sacrifice with dogs or food.","A person wearing a hat, representing a noble or official.",Baseline
+乍,"Sudden or brief actions, such as 'at first glance'; also refers to labor activities like weeding and land reclamation, construction, and casting","Hand, resembling a hand with fingers extended, representing the human hand or manual action.",Baseline
+秜,The phenomenon where rice falls to the ground this year and grows on its own the next year;,"Rice, resembling a rice plant with stalk and grains, representing the crop or grain.",Baseline
+兄,"male family members older than oneself, such as elder brothers","Person holding a tool, representing a person with an object in hand, indicating action of carrying or using a tool.",Baseline
+兄,"male family members older than oneself, such as elder brothers","A person wearing a hat, representing a noble or official.",Baseline
+利,"Benefit; smooth or sharp, originally meaning harvesting crops with a knife","Cutting grass, from hand + grass, resembling a hand holding a tool to cut grass, representing the action of harvesting or cutting vegetation.",Baseline
+宮,the residence of ancient emperors or nobles; later also generally referring to houses or buildings,"House, resembling a roof over two stacked squares, representing a dwelling or residence.",Baseline
+農,"Weeding and tilling with farm tools; later, it generally refers to agriculture or farming","A person standing under two trees, representing the concept of ""forest"" or ""woodland.""",Baseline
+農,"Weeding and tilling with farm tools; later, it generally refers to agriculture or farming","Moon, resembling a crescent moon shape with two small marks above, representing the moon or lunar phase.",Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,"A person holding a bow and arrow, representing hunting or archery.",Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,"Forest, resembling a person standing among trees, representing a dense grove or woodland.",Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,"Eye, resembling an eye shape with a horizontal line inside, representing the organ of sight.",Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,"A person holding a bow and arrow, aiming at a target, representing the action of shooting or hunting.",Baseline
+春,the first season of the four seasons; the season when plants grow and the weather gets warmer,"Cross, resembling a central vertical line with horizontal crossbar and four arrow-like marks at the ends, representing a cross or intersection.",Baseline
+刜,strike or sever with a knife;,"A person holding a bundle of thorny branches, representing punishment or penalty.",Baseline
