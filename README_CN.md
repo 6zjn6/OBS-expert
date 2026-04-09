@@ -16,6 +16,10 @@
 
 ---
 
+<p align="center">
+  <img src="images/teaser_old_page-0001.jpg" alt="OBS-Expert Teaser" width="100%">
+</p>
+
 ## 概述
 
 甲骨文是目前已知最早的成体系汉字，刻写于商代（约公元前 1200 年）的龟甲和兽骨之上。解读甲骨文需要深厚的古文字学功底。本项目探究大语言模型在视觉部首识别和结构化知识增强下，能否生成准确的甲骨文字释义，并系统对比不同增强策略的效果。
@@ -233,11 +237,11 @@ OBS_expert/
 如果本工作对您有帮助，请引用：
 
 ```bibtex
-@article{obs_expert2025,
-  title={OBS-Expert: Oracle Bone Script Interpretation with LLMs and Knowledge Graphs},
-  author={},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+@article{zhang2026obs_expert,
+  title={Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation},
+  author={Zhang, Jianing and Li, Runan and Pang, Honglin and Xia, Ding and Zhu, Zhou and Zhang, Qian and Li, Chuntao and Yang, Xi},
+  journal={arXiv preprint arXiv:2604.06711},
+  year={2026}
 }
 ```
 

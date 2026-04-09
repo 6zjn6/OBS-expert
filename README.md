@@ -16,6 +16,10 @@
 
 ---
 
+<p align="center">
+  <img src="images/teaser_old_page-0001.jpg" alt="OBS-Expert Teaser" width="100%">
+</p>
+
 ## Overview
 
 Oracle Bone Script is the earliest known form of Chinese writing, inscribed on animal bones and turtle shells during the Shang dynasty (~1200 BCE). Interpreting these characters requires deep expertise in paleography. This project investigates whether LLMs, augmented with vision-based radical recognition and structured knowledge, can generate accurate character interpretations -- and how different augmentation strategies compare.
@@ -233,11 +237,11 @@ OBS_expert/
 If you find this work useful, please cite:
 
 ```bibtex
-@article{obs_expert2025,
-  title={OBS-Expert: Oracle Bone Script Interpretation with LLMs and Knowledge Graphs},
-  author={},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+@article{zhang2026obs_expert,
+  title={Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation},
+  author={Zhang, Jianing and Li, Runan and Pang, Honglin and Xia, Ding and Zhu, Zhou and Zhang, Qian and Li, Chuntao and Yang, Xi},
+  journal={arXiv preprint arXiv:2604.06711},
+  year={2026}
 }
 ```
 
