@@ -1,4 +1,4 @@
-# OBS-Expert: 基于大语言模型与知识图谱的甲骨文字解读框架
+# OBS-Expert: 通过基于部件的多模态知识增强专化大模型以解读甲骨文
 
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
@@ -10,7 +10,7 @@
   <a href="README.md"><img src="https://img.shields.io/badge/lang-English-blue.svg" alt="English"></a>
 </p>
 <p align="center">
-  <em>一个自动化甲骨文字分析的研究框架，融合视觉模型、Neo4j 知识图谱与多模型 LLM 管线，生成古汉字的学术性释义。</em>
+  <em>一个面向甲骨文解读的大模型专化研究框架，融合基于部件的视觉识别、Neo4j 知识图谱与多模态知识增强，生成古汉字的学术性释义。</em>
 </p>
 
 

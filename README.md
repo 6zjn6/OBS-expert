@@ -1,4 +1,4 @@
-# OBS-Expert: Oracle Bone Script Interpretation with LLMs and Knowledge Graphs
+# OBS-Expert: Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation
 
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>A research framework for automated Oracle Bone Script (甲骨文) character analysis, combining vision models, Neo4j knowledge graphs, and multi-model LLM pipelines to generate scholarly interpretations of ancient Chinese characters.</em>
+  <em>A research framework for specializing large models in Oracle Bone Script (甲骨文) interpretation, combining component-grounded vision recognition, Neo4j knowledge graphs, and multimodal knowledge augmentation to generate scholarly character interpretations.</em>
 </p>
 
 ---
