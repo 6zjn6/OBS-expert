@@ -237,7 +237,7 @@ OBS_expert/
 如果本工作对您有帮助，请引用：
 
 ```bibtex
-@article{zhang2026obs_expert,
+@article{zhang2026specializing,
   title={Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation},
   author={Zhang, Jianing and Li, Runan and Pang, Honglin and Xia, Ding and Zhu, Zhou and Zhang, Qian and Li, Chuntao and Yang, Xi},
   journal={arXiv preprint arXiv:2604.06711},
