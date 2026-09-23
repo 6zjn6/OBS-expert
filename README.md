@@ -1,5 +1,7 @@
 # OBS-Expert: Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation
 
+**[ACL 2026 Paper](https://aclanthology.org/2026.acl-long.1626/) · [PDF](https://aclanthology.org/2026.acl-long.1626.pdf) · [Dataset on Hugging Face](https://huggingface.co/datasets/6zjn6/OB-Radix)**
+
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT">
@@ -45,6 +47,8 @@ output/ (result CSVs)
 ```
 
 ## Dataset: OB_Radix
+
+The released OB-Radix data and dataset card are available on [Hugging Face](https://huggingface.co/datasets/6zjn6/OB-Radix).
 
 Due to size constraints, only a few example files are included under `OB_Radix/`. The full dataset contains:
 

@@ -1,5 +1,7 @@
 # OBS-Expert: 通过基于部件的多模态知识增强专化大模型以解读甲骨文
 
+**[ACL 2026 论文](https://aclanthology.org/2026.acl-long.1626/) · [论文 PDF](https://aclanthology.org/2026.acl-long.1626.pdf) · [Hugging Face 数据集](https://huggingface.co/datasets/6zjn6/OB-Radix)**
+
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT">
@@ -45,6 +47,8 @@ output/（结果 CSV）
 ```
 
 ## 数据集：OB_Radix
+
+已发布的 OB-Radix 数据及数据说明见 [Hugging Face 数据集页面](https://huggingface.co/datasets/6zjn6/OB-Radix)。
 
 由于体积限制，仓库仅包含少量示例文件（位于 `OB_Radix/`）。完整数据集包含：
 
