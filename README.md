@@ -1,9 +1,9 @@
 # OBS-Expert: Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation
 
 <p align="center">
-  <a href="https://aclanthology.org/2026.acl-long.1626/"><img src="https://img.shields.io/badge/ACL_2026-Paper-blue.svg" alt="ACL 2026 Paper"></a>
-  <a href="https://aclanthology.org/2026.acl-long.1626.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red.svg" alt="Paper PDF"></a>
-  <a href="https://huggingface.co/datasets/6zjn6/OB-Radix"><img src="https://img.shields.io/badge/Hugging_Face-Dataset-yellow.svg" alt="Hugging Face Dataset"></a>
+  <a href="https://aclanthology.org/2026.acl-long.1626/"><img src="https://img.shields.io/badge/ACL%202026-Paper-B31B1B?logo=googlescholar&amp;logoColor=white" alt="ACL 2026 Paper"></a>
+  <a href="https://aclanthology.org/2026.acl-long.1626.pdf"><img src="https://img.shields.io/badge/Paper-PDF-0F766E?logo=readthedocs&amp;logoColor=white" alt="Paper PDF"></a>
+  <a href="https://huggingface.co/datasets/6zjn6/OB-Radix"><img src="https://img.shields.io/badge/Hugging%20Face-Dataset-F59E0B?logo=huggingface&amp;logoColor=white" alt="Hugging Face Dataset"></a>
 </p>
 
 <p align="center">
